@@ -1,4 +1,4 @@
-![CelesteBanner](https://user-images.githubusercontent.com/130422935/231054549-b659b439-7aa5-45e8-8082-a6c8e142790c.png)
+![MainBanner](https://user-images.githubusercontent.com/130422935/231066942-2bacb1b8-3e14-4d74-9cb7-6fdfc070fd44.png)
 # Frequently asked questions
 ## Why create Celeste?
 Honestly I've always been fascinated with computers and more recently Artificial Intelligence and I wanted to challenge myself.
