@@ -26,6 +26,9 @@
 
   ## Governing Law
   These Terms shall be governed by and construed in accordance with the laws of the [United States](https://en.wikipedia.org/wiki/United_States), without giving effect to any principles of conflicts of law.
+  
+  ## Transactional Liability
+  All purchases, donations, or financial transactions made through third-party services such as Patreon, Ko-fi, or any other platform are final and non-refundable. By making a purchase or donation, you acknowledge and   agree that you will not be entitled to any refund or return of funds for any reason.
 
   ## Miscellaneous
   These Terms constitute the entire agreement between you and Operator regarding your use of Celeste-AI. If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect. The failure of Operator to enforce any right or provision of these Terms shall not be deemed a waiver of such right or provision. You may not assign these Terms or any of your rights or obligations hereunder without the prior written consent of Operator. Operator may assign these Terms or any of its rights or obligations hereunder without your consent.
