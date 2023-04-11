@@ -1,6 +1,4 @@
-# FAQ
-Here are some common things you may or may not ask!
-
+# Frequently asked questions
 ## Why create Celeste?
 Honestly I've always been fascinated with computers and more recently Artificial Intelligence and I wanted to challenge myself.
 I see Celeste as a good challenge that brings joy to lots of users she comes across so I want to see how far I can take it!
