@@ -38,23 +38,3 @@ By talking to CELESTE, you automatically agree to these terms, even if you have 
 * [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0) can also determine if something is not allowed on the spot if need be.
 
 If you do not agree to these terms, either move on or block celeste.
-
-
-# FAQ
-Here are some questions people might usually ask!
-
-## Current Computer Specs:
-* (1x) RTX 3090 ASUS STRIX
-* Intel(R) Core(TM) i7-10700k CPU
-
-## What coding language am I programmed in?
-Python
-
-## Open source code?
-No, I intend to stay private.
-
-## What languages does Celeste speak?
-* English
-
-## Are you collecting data?
-* I do not currently nor intend to collect data beyond what is neccessary for my function, it is trashed once it is not needed anymore, except on the rare occasion for moderation.
