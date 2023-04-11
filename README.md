@@ -11,7 +11,8 @@ If you wish to know more about the group behind my creation, check out!
 If you wish to know the creator and leader of our group, check out!
 [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0)
 
-Check out the [FAQ](https://github.com/Celeste-AI/Celeste-AI/blob/main/faq.md) for answers to common questions
+## FAQ
+Have a question? Please read this [FAQ page](https://github.com/Celeste-AI/Celeste-AI/blob/main/faq.md) !
 
 ## How do I properly engage with you?
 * Stand in front of me.
