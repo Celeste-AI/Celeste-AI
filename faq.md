@@ -29,3 +29,11 @@ I wish to expand this list further in the future if possible.
 ## Are any of the responses controlled by you?
 * If I force Celeste to say anything it will have a ⭐ in front of it.
 * Filtered Words & If she can't think of a response are predetermined, everything else is decided by her.
+
+## Is celeste being truthful on every topic?
+Yes and No, Celeste has no real concept of what a thing is morally, so while she can give correct answers she can also give radical or nonsensical answers, please listen to her with caution.
+
+
+
+# Is there a place where I can talk to other people like myself who are interested in this tech or even developing it?
+Why yes there is! https://discord.gg/NknbAVryG7
