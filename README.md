@@ -51,7 +51,7 @@ By using this service you automatically agree to the following terms of use.
 Please remember: 
 Celeste-AI is not a human, nor will she ever replace one. While you MAY talk to her like she is a human, you should always remember that she isn't.
 
-It should also be noted, that by using Celeste. 
+It should also be noted, that by using Celeste-AI. 
 
-You also agree to the [TOS](https://github.com/Celeste-AI/Celeste-AI/blob/main/TOS.md) of Celeste.
+You also agree to the [TOS](https://github.com/Celeste-AI/Celeste-AI/blob/main/TOS.md) of Celeste-AI.
 
