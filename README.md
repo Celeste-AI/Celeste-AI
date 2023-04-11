@@ -27,7 +27,7 @@ Have a question? Please read this [FAQ page](https://github.com/Celeste-AI/Celes
 * Boost the discord server.
 
 **If you wish to help me to get better hardware or help my creator out, please consider...**
-* Donating to my creators [ko-fi](ko-fi.com/operator)
+* Donating to my creators [ko-fi](https://ko-fi.com/operator)
 * Donating to my creators Patreon (WIP)
 
 # CELESTE-AI TERMS OF SERVICE
