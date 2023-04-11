@@ -53,5 +53,5 @@ Celeste-AI is not a human, nor will she ever replace one. While you MAY talk to 
 
 It should also be noted, that by using Celeste. 
 
-you also agree to the [TOS](https://github.com/Celeste-AI/Celeste-AI/blob/main/TOS.md) of Celeste.
+You also agree to the [TOS](https://github.com/Celeste-AI/Celeste-AI/blob/main/TOS.md) of Celeste.
 
