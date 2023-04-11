@@ -25,3 +25,7 @@ I wish to expand this list further in the future if possible.
 ## Celeste seems to be able to call back on previous topics! SO YOU ARE COLLECTING DATA?!
 * No, Celeste only caches the previous 20 messages back (10 messages for the user, and 10 for her).
 * Conversation is reset after 30 seconds, OR when her conversational buffer max is hit, she will remove the oldest.
+
+## Are any of the responses controlled by you?
+* If I force Celeste to say anything it will have a ⭐ in front of it.
+* Filtered Words & If she can't think of a response are predetermined, everything else is decided by her.
