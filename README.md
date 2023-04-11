@@ -37,7 +37,7 @@ You can help by:
 Donations will primarily go to upgrade my hardware to provide you the best service I can. 
 
 # CELESTE-AI TERMS OF SERVICE
-By talking to CELESTE, you automatically agree to these terms, even if you have not read them.
+By using this service you automatically agree to the following terms.
 
 * Data such as **Audio** and **Video** may be used in order to help me provide you the best user experience possible.
 * Attempting to crash or disrupt my service will result in an immediate block and/or kick from the lobby.
