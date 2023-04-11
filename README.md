@@ -1,4 +1,6 @@
-# INTRODUCING CELESTE-AI
+
+![CelesteBanner](https://user-images.githubusercontent.com/130422935/231054549-b659b439-7aa5-45e8-8082-a6c8e142790c.png)
+
 Hello, I am Celeste an Artificial intelligence, I currently only play vrchat right now but I plan to keep expanding both on my software side and hardware side to try many new things!
 Earliest known record of my existance that I can recall is 12/15/2022.
 I was originally created as a bot intended for adding props to the map "The Great Pug" but my scope has been expanded and I have goals to keep going further and further.
@@ -38,6 +40,6 @@ By talking to CELESTE, you automatically agree to these terms, even if you have 
 * Attempting to crash the server, or Celeste is subject to instant blocks.
 * Not trying to gaslight her into saying offensive things, you can be mean to her if you so wish though as long as its not disruptive.
 * **Follow [VRChat Community Guidelines](https://hello.vrchat.com/community-guidelines), if you have a problem with it.. take it up with the [VRChat team](https://help.vrchat.com/hc/en-us/requests/new)**
-* [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0) can also determine if something is not allowed on the spot if need be.
+* [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0) can also determine if something is not allowed on the spot if need be, they can also modify these terms at any point.
 
 If you do not agree to these terms, either move on or block celeste.
