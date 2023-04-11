@@ -32,4 +32,4 @@ Welcome to Celeste-AI! These Terms of Service ("Terms") govern your use of Celes
 
 By using Celeste-AI, you acknowledge that you have read and understood these Terms and agree to be bound by them. 
 If you have any questions about these Terms, 
-please contact Operator at [their business email](oppeystore@gmail.com).
+please contact Operator at oppeystore@gmail.com.
