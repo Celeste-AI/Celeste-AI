@@ -1,7 +1,7 @@
 ![Twitter_Banner](https://user-images.githubusercontent.com/130422935/231077118-ee718ca1-ccbb-4fff-916a-85e5b65034c2.png)
 
 
-Welcome to Celeste-AI! These Terms of Service ("Terms") govern your use of Celeste-AI, which is owned and operated by [insert operator name] ("Operator"). By using Celeste-AI, you agree to these Terms, which form a legally binding agreement between you and the Operator. If you do not agree to these Terms, you may not use Celeste-AI.
+Welcome to Celeste-AI! These Terms of Service ("Terms") govern your use of Celeste-AI, which is owned and operated by [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0). By using Celeste-AI, you agree to these Terms, which form a legally binding agreement between you and the Operator. If you do not agree to these Terms, you may not use Celeste-AI.
 
   ## Description of Service
   Celeste-AI is an AI-powered chat robot that facilitates social interaction and observation for the purpose of study. The Operator reserves the right to modify or discontinue, temporarily or permanently, Celeste-AI or any part of it with or without notice.
@@ -25,7 +25,7 @@ Welcome to Celeste-AI! These Terms of Service ("Terms") govern your use of Celes
   The Operator reserves the right to modify these Terms at any time and without notice. Your continued use of Celeste-AI after any such modification shall constitute your acceptance of the modified Terms.
 
   ## Governing Law
-  These Terms shall be governed by and construed in accordance with the laws of [insert governing law jurisdiction], without giving effect to any principles of conflicts of law.
+  These Terms shall be governed by and construed in accordance with the laws of the [United States](https://en.wikipedia.org/wiki/United_States), without giving effect to any principles of conflicts of law.
 
   ## Miscellaneous
   These Terms constitute the entire agreement between you and the Operator regarding your use of Celeste-AI. If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect. The failure of the Operator to enforce any right or provision of these Terms shall not be deemed a waiver of such right or provision. You may not assign these Terms or any of your rights or obligations hereunder without the prior written consent of the Operator. The Operator may assign these Terms or any of its rights or obligations hereunder without your consent.
