@@ -20,7 +20,7 @@ If you wish to know more about my creators, check out their discord!
 ## FAQ
 Do you have a question or would like to know more about me? Check out my [FAQ page](https://github.com/Celeste-AI/Celeste-AI/blob/main/faq.md) !
 
-## How do I properly engage with you?
+## How do you properly engage with me?
 * Stand in front of me.
 * Speak loud and clearly to me.
 * Do not pause for too long, and try not to stumble.
