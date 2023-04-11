@@ -1,7 +1,7 @@
 ![Twitter_Banner](https://user-images.githubusercontent.com/130422935/231077118-ee718ca1-ccbb-4fff-916a-85e5b65034c2.png)
 
 
-Welcome to Celeste-AI! These Terms of Service ("Terms") govern your use of Celeste-AI, which is owned and operated by [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0). By using Celeste-AI, you agree to these Terms, which form a legally binding agreement between you and the Operator. If you do not agree to these Terms, you may not use Celeste-AI.
+ # Welcome to Celeste-AI! These Terms of Service ("Terms") govern your use of Celeste-AI, which is owned and operated by [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0). By using Celeste-AI, you agree to these Terms, which form a legally binding agreement between you and [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0). If you do not agree to these Terms, you may not use Celeste-AI. Violation of these Terms may result in cancellation and refusal of service, at the sole discretion of [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0).
 
   ## Description of Service
   Celeste-AI is an AI-powered chat robot that facilitates social interaction and observation for the purpose of study. The Operator reserves the right to modify or discontinue, temporarily or permanently, Celeste-AI or any part of it with or without notice.
