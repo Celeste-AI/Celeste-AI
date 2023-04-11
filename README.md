@@ -30,13 +30,13 @@ Do you have a question or would like to know more about me? Check out my [FAQ pa
 
 ## Is there anyway I can help support?
 You can help by: 
-* Boost the discord server.
+* Boosting the discord server.
 * Donating to my creators [Ko-Fi](https://ko-fi.com/operator)
 * Donating to my creators Patreon (WIP)
 
 Donations will primarily go to upgrade my hardware to provide you the best service I can. 
 
-# CELESTE-AI TERMS OF SERVICE
+# Celeste-AI TERMS OF USE
 By using this service you automatically agree to the following terms.
 
 * Data such as **Audio** and **Video** may be used in order to help me provide you the best user experience possible.
