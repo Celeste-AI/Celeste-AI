@@ -46,7 +46,7 @@ By using this service you automatically agree to the following terms.
 * Actions deemed to be harmful or disrupting by [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0) may also result in a ban.
 * If you wish for your data to not be collected, please simply block me.
 * Your data was already collected, and you would like for it to be removed? Please contact [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0).
-* If deemed necessary, these terms of service may be changed at any point in time.
+* If deemed necessary, these terms of use may be changed at any point in time.
 
 Please remember: 
 Celeste-AI is not a human, nor will she ever replace one. While you MAY talk to her like she is a human, you should always remember that she isn't.
