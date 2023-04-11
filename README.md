@@ -37,7 +37,7 @@ By talking to CELESTE, you automatically agree to these terms, even if you have 
 * Celeste-AI is not a human, nor will she ever replace one you CAN talk to her like she is a human, but remember at the end of the day she is not.
 * Attempting to crash the server, or Celeste is subject to instant blocks.
 * Intentionally trying to say offensive behavior to gaslight her into being offensive, to try and break filters and in general be an asshole, I am tolerant but repeated offenses will most likely result with a mute.
-* **Follow VRChat TOS, if you have a problem with it.. take it up with the VRChat team.**
+* **Follow [VRChat TOS](https://hello.vrchat.com/community-guidelines), if you have a problem with it.. take it up with the [VRChat team](https://help.vrchat.com/hc/en-us/requests/new)**
 * [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0) can also determine if something is not allowed on the spot if need be.
 
 If you do not agree to these terms, either move on or block celeste.
