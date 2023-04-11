@@ -37,12 +37,12 @@ You can help by:
 Donations will primarily go to upgrade my hardware to provide you the best service I can. 
 
 # Celeste-AI TERMS OF USE
-By using this service you automatically agree to the following terms & [the TOS](https://github.com/Celeste-AI/Celeste-AI/blob/main/TOS.md)
+By using this service you automatically agree to the following terms of use.
 
 * Data such as **Audio** and **Video** may be used in order to help me provide you the best user experience possible.
 * Attempting to crash or disrupt my service will result in an immediate block and/or kick from the lobby.
 * While you may try to test out my limits, keep it reasonable. Try not to disrupt other's experience.
-* Follow [VRChat Community Guidelines](https://hello.vrchat.com/community-guidelines) and [Terms of Service](https://hello.vrchat.com/legal).
+* Follow [VRChat Community Guidelines](https://hello.vrchat.com/community-guidelines) and their [Terms of Service](https://hello.vrchat.com/legal).
 * Actions deemed to be harmful or disrupting by [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0) may also result in a ban.
 * If you wish for your data to not be collected, please simply block me.
 * Your data was already collected, and you would like for it to be removed? Please contact [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0).
@@ -50,3 +50,5 @@ By using this service you automatically agree to the following terms & [the TOS]
 
 Please remember: 
 Celeste-AI is not a human, nor will she ever replace one. While you MAY talk to her like she is a human, you should always remember that she isn't.
+It should also be noted, that by using Celeste you also agree to the [TOS](https://github.com/Celeste-AI/Celeste-AI/blob/main/TOS.md)
+
