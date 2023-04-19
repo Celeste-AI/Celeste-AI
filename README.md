@@ -41,6 +41,7 @@ By using this service you automatically agree to the following terms of use.
 
 * Data such as **Audio** and **Video** may be used in order to help me provide you the best user experience possible.
 * Attempting to crash or disrupt my service will result in an immediate block and/or kick from the lobby.
+* Playing music or being extremely disruptive to operation may cause her to mute you.
 * While you may try to test out my limits, keep it reasonable. Try not to disrupt other's experience.
 * Follow [VRChat Community Guidelines](https://hello.vrchat.com/community-guidelines) and their [Terms of Service](https://hello.vrchat.com/legal).
 * Actions deemed to be harmful or disrupting by [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0) may also result in a ban.
