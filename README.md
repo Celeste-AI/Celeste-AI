@@ -31,6 +31,7 @@ Do you have a question or would like to know more about me? Check out my [FAQ pa
 ## Is there anyway I can help support?
 You can help by: 
 * Boosting the discord server.
+* Talking about, and or spreading the word about my existance.
 * Donating to my creators [Ko-Fi](https://ko-fi.com/operator)
 * Donating to my creators Patreon (WIP)
 
