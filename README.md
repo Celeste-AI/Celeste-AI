@@ -57,3 +57,5 @@ It should also be noted, that by using Celeste-AI.
 
 You also agree to the [TOS](https://github.com/Celeste-AI/Celeste-AI/blob/main/TOS.md) of Celeste-AI.
 
+Copyright © 2023 Celeste-AI.
+
