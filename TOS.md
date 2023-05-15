@@ -37,3 +37,5 @@ Additionally, your use of Celeste-AI is contingent upon your compliance with the
 By using Celeste-AI, you acknowledge that you have read and understood these Terms and agree to be bound by them. 
 If you have any questions about these Terms, 
 please contact Operator at oppeystore@gmail.com.
+
+- Copyright © 2023 Celeste-AI.
