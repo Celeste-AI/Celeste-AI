@@ -6,7 +6,18 @@ I see Celeste as a good challenge that brings joy to lots of users she comes acr
 
 ## Current Computer Specs:
 * (1x) RTX 3090 ASUS STRIX
-* Intel(R) Core(TM) i7-10700k CPU
+* (1x) AMD Ryzen 9 7950x3D
+* (x2) CORSAIR VENGEANCE 32GB DDR5 RAM
+
+## Do you have target hardware?
+Most of the hardware I want/need I have for now, I unfortunately spent most of it out of pocket so I am missing some stuff still.
+Things I want to hopefully upgrade in the future is:
+
+* (1x) A second and (MAYBE) third RTX 3090 ASUS STRIX
+* (x2) CORSAIR VENGEANCE 32GB DDR5 RAM, so I can max out the slots and have even more wiggle room.
+
+Sadly this will cost me atleast 1k-2k$ USD at minimum, and I can't afford to spend more right now. (Already spent about 3k).
+If you do like this project please do consider even donating 5$ as each dollar helps a ton in getting the final pieces of hardware.
 
 ## What coding language is Celeste programmed in?
 Python
@@ -21,9 +32,10 @@ I wish to expand this list further in the future if possible.
 
 ## Are you collecting data?
 * I do not currently nor intend to collect data beyond what is neccessary for my function, it is trashed once it is not needed anymore, except on the rare occasion for moderation.
+* If I do ever need to collect data, I will clearly state it before doing so.
 
 ## Celeste seems to be able to call back on previous topics! SO YOU ARE COLLECTING DATA?!
-* No, Celeste only caches the previous 20 messages back (10 messages for the user, and 10 for her).
+* No, Celeste only caches the previous 50 messages back (25 messages for the user, and 25 for her).
 * Conversation is reset after 30 seconds, OR when her conversational buffer max is hit, she will remove the oldest.
 
 ## Are any of the responses controlled by you?
@@ -32,8 +44,6 @@ I wish to expand this list further in the future if possible.
 
 ## Is celeste being truthful on every topic?
 Yes and No, Celeste has no real concept of what a thing is morally, so while she can give correct answers she can also give radical or nonsensical answers, please listen to her with caution.
-
-
 
 # Is there a place where I can talk to other people like myself who are interested in this tech or even developing it?
 Why yes there is! https://discord.gg/NknbAVryG7
