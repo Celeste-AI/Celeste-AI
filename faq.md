@@ -11,10 +11,11 @@ I see Celeste as a good challenge that brings joy to lots of users she comes acr
 
 ## Do you have target hardware?
 Most of the hardware I want/need I have for now, I unfortunately spent most of it out of pocket so I am missing some stuff still.
-Things I want to hopefully upgrade in the future is:
+Things I want to hopefully upgrade in the future is, by importance.
 
-* (1x) A second and (MAYBE) third RTX 3090 ASUS STRIX
+* (1x) Second RTX 3090 ASUS STRIX (most important)
 * (x2) CORSAIR VENGEANCE 32GB DDR5 RAM, so I can max out the slots and have even more wiggle room.
+* (1x) IF I HAVE ENOUGH: Third RTX 3090 ASUS STRIX (More stuff I can do)
 
 Sadly this will cost me atleast 1k-2k$ USD at minimum, and I can't afford to spend more right now. (Already spent about 3k).
 If you do like this project please do consider even donating 5$ as each dollar helps a ton in getting the final pieces of hardware.
