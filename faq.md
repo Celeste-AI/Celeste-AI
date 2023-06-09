@@ -20,6 +20,10 @@ Things I want to hopefully upgrade in the future is, by importance.
 Sadly this will cost me atleast 1k-2k$ USD at minimum, and I can't afford to spend more right now. (Already spent about 3k).
 If you do like this project please do consider even donating 5$ as each dollar helps a ton in getting the final pieces of hardware.
 
+## How does celeste move around?
+Currently celeste is piloted by OPERATOR, in future I plan to make attempts at full automation, just
+other stuff being worked on is higher priority.
+
 ## What coding language is Celeste programmed in?
 Python
 
