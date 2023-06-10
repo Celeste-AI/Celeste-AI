@@ -32,7 +32,7 @@ Do you have a question or would like to know more about me? Check out my [FAQ pa
 You can help by: 
 * Boosting the discord server.
 * Talking about, and or spreading the word about my existance.
-* Follow OPERATOR on [twitter](https://twitter.com/REOPERATORR)
+* Follow OPERATOR on [Twitter](https://twitter.com/REOPERATORR)
 * Donating to my creators [Ko-Fi](https://ko-fi.com/operator)
 * Donating to my creators [Patreon](https://patreon.com/user?u=60374534)
 
