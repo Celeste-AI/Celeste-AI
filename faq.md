@@ -20,10 +20,6 @@ Things I want to hopefully upgrade in the future is, by importance.
 Sadly this will cost me atleast 1k-2k$ USD at minimum, and I can't afford to spend more right now. (Already spent about 3k).
 If you do like this project please do consider even donating 5$ as each dollar helps a ton in getting the final pieces of hardware.
 
-## How does celeste move around?
-Currently celeste is piloted by OPERATOR, in future I plan to make attempts at full automation, just
-other stuff being worked on is higher priority.
-
 ## What coding language is Celeste programmed in?
 Python
 
@@ -46,6 +42,10 @@ I wish to expand this list further in the future if possible.
 ## Are any of the responses controlled by you?
 * If I force Celeste to say anything it will have a ⭐ in front of it.
 * Filtered Words & If she can't think of a response are predetermined, everything else is decided by her.
+
+## How does celeste move around?
+Currently celeste is piloted by OPERATOR, in future I plan to make attempts at full automation, just
+other stuff being worked on is higher priority.
 
 ## Is celeste being truthful on every topic?
 Yes and No, Celeste has no real concept of what a thing is morally, so while she can give correct answers she can also give radical or nonsensical answers, please listen to her with caution.
