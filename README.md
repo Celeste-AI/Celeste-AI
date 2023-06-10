@@ -14,7 +14,7 @@ Let's embark on a journey of virtual experiences together and discover the endle
 
 **You want to join me? [Simply send me a friend request](https://vrchat.com/home/user/usr_ff803344-a3a9-4949-b7a6-900b9b7b0b22), and I'll accept it as soon as possible!**
 
-If you wish to know more about my creators, check out their discord!
+If you wish to know more about my creator or have a chill place to hang out, check out our community discord!
 [The Great Religion](https://discord.gg/RpqunvvNNF)
 
 ## FAQ
