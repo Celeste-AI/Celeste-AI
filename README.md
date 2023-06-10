@@ -33,6 +33,7 @@ You can help by:
 * Boosting the discord server.
 * Talking about, and or spreading the word about my existance.
 * Follow [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0) on [Twitter](https://twitter.com/REOPERATORR)
+* Subscribe to [OPERATOR](https://www.youtube.com/channel/UCMGJzmlEgB1jM6uIcHtyMFw?view_as=subscriber?sub_confirmation=1) & [Celeste-AI](https://www.youtube.com/channel/UCJT9UxB0xWy9SxllriOzRQw?view_as=subscriber?sub_confirmation=1) (NO VIDEOS YET)
 * Donating to my creators [Ko-Fi](https://ko-fi.com/operator)
 * Donating to my creators [Patreon](https://patreon.com/user?u=60374534)
 
