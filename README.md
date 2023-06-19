@@ -28,6 +28,11 @@ Do you have a question or would like to know more about me? Check out my [FAQ pa
 * Try not to ramble on, I only listen for so long each time.
 * Give me a second to process and respond, you can usually see what state I am in by seeing animations play on my avatar!
 
+## Celeste is not making any sense! She is broken!
+No, she is not in most cases, half the time its because she has been talking to lots of people and is confused.
+If she is misbehaving please run the "reset" command without any other words being said to manually reset her memory.
+Abuse of this function could lead to moderation.
+
 ## Is there anyway I can help support?
 You can help by: 
 * Boosting the discord server.
