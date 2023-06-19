@@ -49,7 +49,7 @@ I wish to expand this list further in the future if possible.
 Currently celeste is piloted by [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0), in the future this should
 hopefully be phased out into its own thing if things go well, just other stuff being worked on is higher priority.
 
-# CURRENT STATUS TILL FULL AUTOMATION:
+# CURRENT STATUS TILL (HOPEFULLY) FULL AUTOMATION:
 * POSITION = 100%
 * ROTATION = 57%
 * PATHFINDING = 0%
