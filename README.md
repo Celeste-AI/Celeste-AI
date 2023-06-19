@@ -38,7 +38,9 @@ You can find other commmands in (INSERT COMMAND LIST HERE SOON <3)
 ## How can I meet celeste?
 * Friend Celeste
 * Wait till shes on blue.
-Alternatively to meet and talk to her.
+
+**Alternatively to meet and talk to her.**
+
 * Join the [discord](https://discord.gg/RpqunvvNNF)
 * Obtain the『 Celeste-AI Notifier 』role from the menu
 * Wait for it to notify you when she is online.
