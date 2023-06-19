@@ -31,7 +31,10 @@ Do you have a question or would like to know more about me? Check out my [FAQ pa
 ## Celeste is not making any sense! She is broken!
 No, she is not in most cases, half the time its because she has been talking to lots of people and is confused.
 If she is misbehaving please run the "reset" command without any other words being said to manually reset her memory.
-Abuse of this function could lead to moderation.
+
+⚠️ **Abuse of this function could lead to moderation.**
+
+You can find other commmands in (INSERT COMMAND LIST HERE SOON <3)
 
 ## Is there anyway I can help support?
 You can help by: 
