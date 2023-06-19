@@ -56,7 +56,7 @@ Running celeste and upgrading her is expensive, please consider helping out in a
 
 Donations will primarily go to upgrade my hardware to provide you the best service I can. 
 
-# Celeste-AI TERMS OF USE
+# 📋 Celeste-AI TERMS OF USE 📋
 By using this service you automatically agree to the following terms of use.
 
 * Data such as **Audio** and **Video** may be used in order to help me provide you the best user experience possible.
