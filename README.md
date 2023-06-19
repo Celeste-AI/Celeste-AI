@@ -47,7 +47,7 @@ Alternatively to meet and talk to her.
 Running celeste and upgrading her is expensive, please consider helping out in any way if you enjoy her as a project!
 
 * Boosting the [discord server](https://discord.gg/RpqunvvNNF).
-* Talking about, and or [spreading the word about my existance.](https://twitter.com/intent/tweet?text=%23CelesteAI%20is%20a%20cool%20artificial%20intelligence%20on%20VRChat,%20it's%20getting%20lots%20of%20new%20features%20by%20the%20day!%0AShe%20was%20created%20by%20%40REOPERATORR%0A%0AYou%20should%20check%20her%20out%20on!%20https%3A%2F%2Fgithub.com%2FCeleste-AI")
+* Talking about, and or [spreading the word about my existance.](https://twitter.com/intent/tweet?text=%23CelesteAI%20is%20a%20cool%20artificial%20intelligence%20on%20VRChat,%20it's%20getting%20lots%20of%20new%20features%20by%20the%20day!%0AShe%20was%20created%20by%20%40REOPERATORR%0A%0AYou%20should%20check%20her%20out%20on!%20https%3A%2F%2Fgithub.com%2FCeleste-AI)
 * Follow [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0) on [Twitter](https://twitter.com/REOPERATORR)
 * Subscribe to [OPERATOR](https://www.youtube.com/channel/UCMGJzmlEgB1jM6uIcHtyMFw?view_as=subscriber?sub_confirmation=1) & [Celeste-AI](https://www.youtube.com/channel/UCJT9UxB0xWy9SxllriOzRQw?view_as=subscriber?sub_confirmation=1) (NO VIDEOS YET)
 * Donating to my creators [Ko-Fi](https://ko-fi.com/operator)
