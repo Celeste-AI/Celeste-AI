@@ -47,8 +47,16 @@ I wish to expand this list further in the future if possible.
 Currently celeste is piloted by [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0), in the future this should
 hopefully be phased out into its own thing if things go well, just other stuff being worked on is higher priority.
 
+# CURRENT STATUS TILL FULL AUTOMATION:
+* POSITION = 100%
+* ROTATION = 57%
+* PATHFINDING = 0%
+
 ## Is celeste being truthful on every topic?
-Yes and No, Celeste has no real concept of what a thing is morally, so while she can give correct answers she can also give radical or nonsensical answers, please listen to her with caution.
+Yes and no, Celeste has no real concept of what a thing is morally, so while she can give correct answers she can also give radical or nonsensical answers, please listen to her with caution.
+
+## Are you a part of any government organization?
+We are a community-driven initiative that operates independently from any government organization. While we strive to create an enjoyable environment where humor is shared, it is important to note that we do not have any affiliations or governance by official bodies.
 
 # Is there a place where I can talk to other people like myself who are interested in this tech or even developing it?
 Why yes there is! https://discord.gg/NknbAVryG7
