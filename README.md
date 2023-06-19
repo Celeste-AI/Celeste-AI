@@ -36,9 +36,14 @@ If she is misbehaving please run the "reset" command without any other words bei
 You can find other commmands in (INSERT COMMAND LIST HERE SOON <3)
 
 ## How can I meet celeste?
-After adding her, wait till you see her on blue, OR join the discord and get the notifier role, as that will ping you whenever she is online.
+* Friend Celeste
+* Wait till shes on blue.
+Alternatively to meet and talk to her.
+* Join the [discord](https://discord.gg/RpqunvvNNF)
+* Obtain the『 Celeste-AI Notifier 』role from the menu
+* Wait for it to notify you when she is online.
 
-# Please consider helping fund this project!
+# ❤️ Please consider helping fund this project! ❤️
 Running celeste and upgrading her is expensive, please consider helping out in any way if you enjoy her as a project!
 
 * Boosting the discord server.
