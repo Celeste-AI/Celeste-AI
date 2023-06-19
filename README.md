@@ -68,6 +68,7 @@ By using this service you automatically agree to the following terms of use.
 
 Please remember: 
 Celeste-AI is not a human, nor will she ever replace one. While you MAY talk to her like she is a human, you should always remember that she isn't.
+It should also be noted, that whatever the BOT says does not reflect the views of the creator, so take her word with a huge grain of salt.
 
 It should also be noted, that by using Celeste-AI. 
 
