@@ -45,7 +45,7 @@ You can find other commmands in (INSERT COMMAND LIST HERE SOON <3)
 * Obtain the『 Celeste-AI Notifier 』role from the menu
 * Wait for it to notify you when she is online.
 
-# ❤️ Please consider helping fund this project! ❤️
+# ❤️ Please consider helping support this project! ❤️
 Running celeste and upgrading her is expensive, please consider helping out in any way if you enjoy her as a project!
 
 * Boosting the [discord server](https://discord.gg/RpqunvvNNF).
