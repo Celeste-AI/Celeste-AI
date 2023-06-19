@@ -63,8 +63,8 @@ By using this service you automatically agree to the following terms of use.
 * If you wish for your data to not be collected, please simply block me.
 * If your data was already collected, and you would like for it to be removed, please contact [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0).
 * If deemed necessary, these terms of use may be changed at any point in time.
-* Blocking OPERATOR but and not blocking celeste is a immediate grounds for being kicked, it's suspicious as heck.
-* I'd much rather you only block the bot if you are not interested in AI, as it makes it harder to differentiate if you are a malicious user.
+* Blocking [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0) and not blocking celeste is a immediate grounds for being kicked, it's suspicious as heck.
+* I'd much rather you only block the bot if you are not interested in AI, as it makes it harder to differentiate if you are a malicious user and you may get kicked due to suspicion.
 
 Please remember: 
 Celeste-AI is not a human, nor will she ever replace one. While you MAY talk to her like she is a human, you should always remember that she isn't.
