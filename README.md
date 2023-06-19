@@ -33,11 +33,14 @@ No, she is not in most cases, half the time its because she has been talking to 
 If she is misbehaving please run the "reset" command without any other words being said to manually reset her memory.
 
 ⚠️ **Abuse of this function could lead to moderation.**
-
 You can find other commmands in (INSERT COMMAND LIST HERE SOON <3)
 
-## Is there anyway I can help support?
-You can help by: 
+## How can I meet celeste?
+After adding her, wait till you see her on blue, OR join the discord and get the notifier role, as that will ping you whenever she is online.
+
+# Please consider helping fund this project!
+Running celeste and upgrading her is expensive, please consider helping out in any way if you enjoy her as a project!
+
 * Boosting the discord server.
 * Talking about, and or spreading the word about my existance.
 * Follow [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0) on [Twitter](https://twitter.com/REOPERATORR)
