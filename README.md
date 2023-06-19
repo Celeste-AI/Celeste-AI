@@ -76,7 +76,7 @@ By using this service you automatically agree to the following terms of use.
 
 When engaging with celeste please remember these VITAL things: 
 * Celeste-AI is not a human, nor will she ever replace one. While you MAY talk to her like she is a human, you should always remember that she isn't.
-* Whatever the BOT says does not reflect the views of the creator, so take her word with a huge grain of salt.
+* Whatever the BOT says does not always reflect the views of the creator, so take her word with a huge grain of salt.
 * By talking to Celeste you also agree to the [TOS](https://github.com/Celeste-AI/Celeste-AI/blob/main/TOS.md) of Celeste-AI.
 
 Copyright © 2023 Celeste-AI.
