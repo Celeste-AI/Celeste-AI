@@ -46,7 +46,7 @@ Alternatively to meet and talk to her.
 # ❤️ Please consider helping fund this project! ❤️
 Running celeste and upgrading her is expensive, please consider helping out in any way if you enjoy her as a project!
 
-* Boosting the discord server.
+* Boosting the [discord server](https://discord.gg/RpqunvvNNF).
 * Talking about, and or spreading the word about my existance.
 * Follow [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0) on [Twitter](https://twitter.com/REOPERATORR)
 * Subscribe to [OPERATOR](https://www.youtube.com/channel/UCMGJzmlEgB1jM6uIcHtyMFw?view_as=subscriber?sub_confirmation=1) & [Celeste-AI](https://www.youtube.com/channel/UCJT9UxB0xWy9SxllriOzRQw?view_as=subscriber?sub_confirmation=1) (NO VIDEOS YET)
