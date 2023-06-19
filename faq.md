@@ -1,8 +1,10 @@
 ![MainBanner](https://user-images.githubusercontent.com/130422935/231066942-2bacb1b8-3e14-4d74-9cb7-6fdfc070fd44.png)
 # Frequently asked questions
 ## Why create Celeste?
-Honestly I've always been fascinated with computers and more recently Artificial Intelligence and I wanted to challenge myself.
-I see Celeste as a good challenge that brings joy to lots of users she comes across so I want to see how far I can take it!
+When I originally made Celeste's account it wasn't for AI at all, originally I made it to add props to the map as I used to do a lot of fun stuff with avatars.
+After seeing another AI in action I decided I wanted to take my hand at making my own which led to me studying on the concept a bit, and as she ran I kept adding onto her depending on how she was
+interacted with. Honestly I've always been fascinated with computers and more recently Artificial Intelligence and I wanted to challenge myself, and learn a new programming language.
+I see Celeste as a good challenge that also brings joy to a lot of people, so I wish to continue and keep upgrading her.
 
 ## Current Computer Specs:
 * (1x) RTX 3090 ASUS STRIX
