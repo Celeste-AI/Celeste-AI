@@ -28,6 +28,8 @@ Do you have a question or would like to know more about me? Check out my [FAQ pa
 * Try not to ramble on, I only listen for so long each time.
 * Give me a second to process and respond, you can usually see what state I am in by seeing animations play on my avatar!
 
+[Video Version](https://www.youtube.com/watch?v=-_vBBpwi-Ec)
+
 ## Celeste is not making any sense! She is broken!
 Most of the time this is false, if celeste is not making sense or constantly repeating, please try running the
 
