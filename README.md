@@ -87,6 +87,7 @@ When engaging with celeste please remember these VITAL things:
 * Whatever the BOT says does not always reflect the views of the creator, so take her word with a huge grain of salt.
 * There is no "free-speech" on vrchat, as [tupper has stated](https://cdn.discordapp.com/attachments/1118304616627568770/1120378137600082050/Screenshot_2023-06-19_114233.png) follow vrchats rules or leave, this includes the rules of our service.
 
+Make sure to read up on the [TOS](https://github.com/Celeste-AI/Celeste-AI/blob/main/TOS.md) of Celeste-AI!
 
 **Copyright © 2023 Celeste-AI. All rights reserved. The brand name 'Celeste-AI' and its underlying code are protected by copyright. Any AI models utilized by Celeste-AI are owned by their respective creators, and their rights are acknowledged.**
 
