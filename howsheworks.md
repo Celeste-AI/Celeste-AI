@@ -72,7 +72,7 @@ This is the "thinking phase" of celeste.
 **(cheeks RGB, hand in a 'thinking' pose and eyes closed)**
 
 During this phase, celeste is actively accessing her GPU with the input we recieved earlier and using her model that was loaded in VRAM to generate a response.
-This is more cost effective long term, as using third parties can raise up quite a penny. (also I don't like giving even anonymized data to third parties).
+This is more cost effective long term, as using third parties can raise up quite a penny. (also I don't like giving even anonymized data to third parties), and it is also much.. **MUCH** quicker!
 
 Her computer is then able to effectively 'respond' extremely quickly, currently due to hardware limitations she is using a weaker version of her AI, if I wanted to improve her further in this regard I'd need better hardware. (multi gpu setup)
 
