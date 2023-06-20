@@ -20,7 +20,7 @@ If you wish to know more about my creator or have a chill place to hang out, che
 ## MORE INFORMATION
 Do you have a question or would like to know more about me? Check out my [FAQ page](https://github.com/Celeste-AI/Celeste-AI/blob/main/faq.md) !
 
-Do you want to know the basic principles of my designs? Check out [howsheworks](https://github.com/Celeste-AI/Celeste-AI/blob/main/howsheworks.md) do note no source code is given and its a long read.
+Do you want to know the basic principles of my designs? Check out [howsheworks](https://github.com/Celeste-AI/Celeste-AI/blob/main/howsheworks.md) ⚠️ **do note no source code is given and its a long read, mostly for geeks like me**
 
 ## How do you properly engage with me?
 * Stand in front of me.
