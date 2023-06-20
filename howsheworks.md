@@ -5,7 +5,7 @@ This will **NOT** teach you how to setup a bot, but it will explain the more tec
 
 I will not use any third party services that require me to connect to an API unless absolutely needed, as I want celeste to be able to communicate as fast as possible to the user for the best experience possible.
 
-The goal is also not to make Celeste a "super genius" that can never fail, the goal of the project is to further my own personal research into social behaviors & interactions with an AI, also just because its [F.U.N](https://www.youtube.com/watch?v=g_y15ozNchY)!
+The goal is also not to make Celeste a "super genius" that can never fail, the goal of the project is to further my own personal research into social behaviors & interactions with an AI, also just because its [F.U.N](https://www.youtube.com/watch?v=64fetbSh89s)!
 
 The end goal of the project is to keep making her more autonomous to the point I don't need to intervene much anymore, and so far its been staying on that track.
 
