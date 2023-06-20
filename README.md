@@ -76,5 +76,6 @@ When engaging with celeste please remember these VITAL things:
 * Celeste-AI is not a human, nor will she ever replace one. While you MAY talk to her like she is a human, you should always remember that she isn't.
 * Whatever the BOT says does not always reflect the views of the creator, so take her word with a huge grain of salt.
 
-Copyright © 2023 Celeste-AI.
+
+**Copyright © 2023 Celeste-AI. All rights reserved. The brand name 'Celeste-AI' and its underlying code are protected by copyright. Any AI models utilized by Celeste-AI are owned by their respective creators, and their rights are acknowledged.**
 
