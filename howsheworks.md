@@ -139,7 +139,7 @@ This improves her expressiveness and has huge impacts on the approachability cha
 She sometimes guesses a lil off though, but in my opinion it adds to her personal charm.
 
 ## Part 6: Visuals (WIP)
-Celeste is able to see technically, but I am still working out the fine details, she is also able to object detection but that has not been ported over to the new version of her software yet, I am in the process of doing this as we finish some shader math to better understand the
+Celeste is able to see technically, but I am still working out the fine details, she is also able to do object detection but that hasn't been ported over to the new version of her software yet, I am in the process of doing this as we finish some shader math to better understand the
 Position & Rotation of celeste in world space, which will eventually allow her to not need any assistance with moving anymore. (hopefully)
 
 ## Part 7: API-USAGE.
