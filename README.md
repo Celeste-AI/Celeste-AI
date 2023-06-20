@@ -27,6 +27,7 @@ Do you have a question or would like to know more about me? Check out my [FAQ pa
 * Try not to speak over people, I cannot currently tell people apart.
 * Try not to ramble on, I only listen for so long each time.
 * Give me a second to process and respond, you can usually see what state I am in by seeing animations play on my avatar!
+* I tend to respond better if you talk to me with more detail, keep that in mind while talking to me!
 
 [Video Version](https://www.youtube.com/watch?v=-_vBBpwi-Ec)
 
