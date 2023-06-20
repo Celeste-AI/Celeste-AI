@@ -58,18 +58,16 @@ Running celeste and upgrading her is expensive, please consider helping out in a
 
 Donations will primarily go to upgrade my hardware to provide you the best service I can. 
 
-# 📋 Celeste-AI TERMS OF USE 📋
-By using this service you automatically agree to the following terms of use.
+# 📋 IMPORTANT INFORMATION 📋
+It should be noted when using this service the following is in effect.
 
 * Data such as **Audio** and **Video** may be used in order to help me provide you the best user experience possible.
 * Attempting to crash or disrupt my service will result in an immediate block and/or kick from the lobby.
 * Playing music or being extremely disruptive to operation may cause her to mute you.
-* While you may try to test out my limits, keep it reasonable. Try not to disrupt other's experience.
+* While you may try to test out the bots limits, keep it reasonable. Try not to disrupt other's experience.
 * Follow [VRChat Community Guidelines](https://hello.vrchat.com/community-guidelines) and their [Terms of Service](https://hello.vrchat.com/legal).
 * Actions deemed to be harmful or disrupting by [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0) may also result in a ban.
-* If you wish for your data to not be collected, please simply block me.
-* If your data was already collected, and you would like for it to be removed, please contact [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0).
-* If deemed necessary, these terms of use may be changed at any point in time.
+* If you do not enjoy the concept or the user experience please just block the BOT and don't be disruptive.
 * Blocking [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0) and not blocking celeste is a immediate grounds for being kicked, it's suspicious as heck.
 * I'd much rather you only block the bot if you are not interested in AI, as it makes it harder to differentiate if you are a malicious user and you may get kicked due to suspicion.
 * There is no "free-speech" on vrchat, as [tupper has stated](https://cdn.discordapp.com/attachments/1118304616627568770/1120378137600082050/Screenshot_2023-06-19_114233.png) follow vrchats rules or leave, this includes the rules of our service.
@@ -77,7 +75,6 @@ By using this service you automatically agree to the following terms of use.
 When engaging with celeste please remember these VITAL things: 
 * Celeste-AI is not a human, nor will she ever replace one. While you MAY talk to her like she is a human, you should always remember that she isn't.
 * Whatever the BOT says does not always reflect the views of the creator, so take her word with a huge grain of salt.
-* By talking to Celeste you also agree to the [TOS](https://github.com/Celeste-AI/Celeste-AI/blob/main/TOS.md) of Celeste-AI.
 
 Copyright © 2023 Celeste-AI.
 
