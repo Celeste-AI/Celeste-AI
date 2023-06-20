@@ -90,7 +90,7 @@ This has led to her having extremely detailed responses at times, which can caus
 This information is however deleted unless pulled by me manually **(usually in moderation or bug fix cases).**
 
 She will automatically 'forget' everything the moment a "session ends", a "session" being a timeframe that she will remember a current conversation unless forcibly reset.
-This timeframe expands if she hears any noise, and while shes responding, effetively making it so she only resets when shes left idle or forced to reset.
+This timeframe expands if she hears any noise, and while shes responding, effectively making it so she only resets when shes left idle or forced to reset.
 
 I don't believe in using user information to train without consent, nor do I think it is right, so I will never train off of data that a user says in game.
 So all data except on specific cases are trashed (moderation/pulled) to respect privacy of each user, if you are developing a bot I highly recommend you do similar practices as a moral standpoint, but I digress.
