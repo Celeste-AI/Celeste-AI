@@ -70,11 +70,11 @@ It should be noted when using this service the following is in effect.
 * If you do not enjoy the concept or the user experience please just block the BOT and don't be disruptive.
 * Blocking [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0) and not blocking celeste is a immediate grounds for being kicked, it's suspicious as heck.
 * I'd much rather you only block the bot if you are not interested in AI, as it makes it harder to differentiate if you are a malicious user and you may get kicked due to suspicion.
-* There is no "free-speech" on vrchat, as [tupper has stated](https://cdn.discordapp.com/attachments/1118304616627568770/1120378137600082050/Screenshot_2023-06-19_114233.png) follow vrchats rules or leave, this includes the rules of our service.
 
 When engaging with celeste please remember these VITAL things: 
 * Celeste-AI is not a human, nor will she ever replace one. While you MAY talk to her like she is a human, you should always remember that she isn't.
 * Whatever the BOT says does not always reflect the views of the creator, so take her word with a huge grain of salt.
+* There is no "free-speech" on vrchat, as [tupper has stated](https://cdn.discordapp.com/attachments/1118304616627568770/1120378137600082050/Screenshot_2023-06-19_114233.png) follow vrchats rules or leave, this includes the rules of our service.
 
 
 **Copyright © 2023 Celeste-AI. All rights reserved. The brand name 'Celeste-AI' and its underlying code are protected by copyright. Any AI models utilized by Celeste-AI are owned by their respective creators, and their rights are acknowledged.**
