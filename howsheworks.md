@@ -13,6 +13,11 @@ I should note I am by no means an expert in the field, or a super genius, I am j
 
 ⚠️ **This is a huge read, if you don't care enough then don't waste your time, if you're interested in the small stuff, have fun**
 
+✅ Alternatively: Here's a picture that explains the basic idea.
+
+![image](https://github.com/Celeste-AI/Celeste-AI/assets/130422935/a28d7227-d40a-45d0-a8b1-b1d44f29a9ad)
+
+
 ## Part 1: Understanding the social aspect of a online platform.
 ⚠️ **Possibly one of the most important fundementals to consider while working on these things in my opinion**
 * Due to this being an online social experience, you have to remember that people are people, at the end of the day if you don't understand this even a little.
