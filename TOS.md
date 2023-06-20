@@ -38,4 +38,5 @@ By using Celeste-AI, you acknowledge that you have read and understood these Ter
 If you have any questions about these Terms, 
 please contact Operator at oppeystore@gmail.com.
 
-- Copyright © 2023 Celeste-AI.
+**Copyright © 2023 Celeste-AI. All rights reserved. The brand name 'Celeste-AI' and its underlying code are protected by copyright. Any AI models utilized by Celeste-AI are owned by their respective creators, and their rights are acknowledged.**
+
