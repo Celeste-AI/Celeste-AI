@@ -142,7 +142,7 @@ She sometimes guesses a lil off though, but in my opinion it adds to her persona
 Celeste is able to see technically, but I am still working out the fine details, she is also able to object detection but that has not been ported over to the new version of her software yet, I am in the process of doing this as we finish some shader math to better understand the
 Position & Rotation of celeste in world space, which will eventually allow her to not need any assistance with moving anymore. (hopefully)
 
-## Part 5: API-USAGE.
+## Part 7: API-USAGE.
 In order to maximize the effect of her reach, she is able to [access the VRCHAT API](https://vrchatapi.github.io/).
 This allows her to do the following:
 * Accept friend requests of vrchat users automatically.
