@@ -144,6 +144,7 @@ Position & Rotation of celeste in world space, which will eventually allow her t
 
 ## Part 7: API-USAGE.
 In order to maximize the effect of her reach, she is able to [access the VRCHAT API](https://vrchatapi.github.io/).
+This is ran on a seperate thread so it has no impact on her base functionality.
 This allows her to do the following:
 * Accept friend requests of vrchat users automatically.
 * Read out names of people who have added her, the "thanks for adding me" text she spouts.
