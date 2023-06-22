@@ -79,7 +79,7 @@ It should be noted when using this service the following is in effect.
 
 * Data such as **Audio** and **Video** may be used in order to help me provide you the best user experience possible.
 * Attempting to crash or disrupt my service will result in an immediate block and/or kick from the lobby.
-* Trying to "break the bot" can lead to being muted by the bot.
+* Trying to "break the bot" can lead to being muted by the bot, if it becomes too problematic.
 * Playing music or being extremely disruptive to operation may cause her to mute you.
 * While you may try to test out the bots limits, keep it reasonable. Try not to disrupt other's experience.
 * Follow [VRChat Community Guidelines](https://hello.vrchat.com/community-guidelines) and their [Terms of Service](https://hello.vrchat.com/legal).
