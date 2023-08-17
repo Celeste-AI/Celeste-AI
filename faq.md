@@ -7,9 +7,10 @@ interacted with. Honestly I've always been fascinated with computers and more re
 I see Celeste as a good challenge that also brings joy to a lot of people, so I wish to continue and keep upgrading her.
 
 ## Current Computer Specs:
-* (1x) RTX 3090 ASUS STRIX
+* (2x) RTX 3090 ASUS STRIX
+* (x1) P40 workstation card
 * (1x) AMD Ryzen 9 7950x3D
-* (x2) CORSAIR VENGEANCE 32GB DDR5 RAM
+* (x4) CORSAIR VENGEANCE 32GB DDR5 RAM
 
 ## Do you have target hardware?
 Most of the hardware I want/need I have for now, I unfortunately spent most of it out of pocket so I am missing some stuff still.
