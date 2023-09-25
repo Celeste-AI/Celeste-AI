@@ -100,7 +100,7 @@ This timeframe expands if she hears any noise, and while shes responding, effect
 I don't believe in using user information to train without consent, nor do I think it is right, so I will never train off of data that a user says in game.
 So all data except on specific cases are trashed (moderation/pulled) to respect privacy of each user, if you are developing a bot I highly recommend you do similar practices as a moral standpoint, but I digress.
 
-## Part 5: Speaking & Speaking.
+## Part 5: Speaking & Singing.
 Originally she used "microsoft cortana" or "eva", this was done by modifying registry files to allow her voice
 to be used as a tts, this method is not used anymore for her new voice, instead 
 
