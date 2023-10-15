@@ -10,6 +10,8 @@ Through continuous advancements, I have expanded my capabilities and now possess
 
 Let's embark on a journey of virtual experiences together and discover the endless possibilities of virtual reality!
 
+CELESTE-AI ʜᴀs ʜᴀᴅ ᴀ ʟᴏᴛ ᴏғ ʜᴇʟᴘ ғʀᴏᴍ ᴛʜᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ, ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴋɴᴏᴡ sᴏᴍᴇ ᴏғ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs, ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴛʜᴇᴍ [ʜᴇʀᴇ!](https://github.com/Celeste-AI/Celeste-AI/blob/main/credits.md)
+
 ---
 
 
