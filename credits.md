@@ -5,7 +5,8 @@ Anyone on this page, have directly contributed to celeste as a project, be it co
 
 
 ---
-![Member=Operator](https://github.com/Celeste-AI/Celeste-AI/assets/130422935/90445428-d56a-4ad7-934b-9fb17499a115)
+⭐
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/130422935/275341972-90445428-d56a-4ad7-934b-9fb17499a115.png">](https://twitter.com/REOPERATORR)
 I'm OPERATOR, I love making fun stuff for users and I hope you continue to enjoy talking to Celeste!
 
 Got a question? You should [join my discord!](https://discord.gg/RpqunvvNNF)
