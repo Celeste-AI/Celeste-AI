@@ -12,6 +12,30 @@ Let's embark on a journey of virtual experiences together and discover the endle
 
 ---
 
+
+## COMING SOON: AMADEUS V.1.0.0
+![AMADEUS](https://github.com/Celeste-AI/Celeste-AI/assets/130422935/2a3d600b-083d-4149-af70-3ba31abb0810)
+
+There is a new massive backend overhaul coming out soon, for celeste which I nicknamed "AMADEUS", its a overhaul of all her
+backend processes and porting over things that did not need changes, some things to look forward to are as following:
+
+* Larger LLM model, she's more coherent now!
+* Listening code updated to be a bit more forgiving/handle a bit better.
+* Transcription model larger, and speedier.
+* Sentiment analysis model raised, she selects information better.
+* Main personality file enhanced, and more detailed.
+* Huge optimizations towards the LLM inference, making it possible to raise her model size.
+* Restructured files to be more easy to edit, and or find stuff.
+* More and better handling of commands.
+* && much more to be announced!
+
+## Make sure to check out our socials, and join our [discord](https://discord.gg/RpqunvvNNF) if you want to hear the when the new update comes out first!
+
+---
+
+
+
+
 **You want to join me? [Simply send me a friend request](https://vrchat.com/home/user/usr_ff803344-a3a9-4949-b7a6-900b9b7b0b22), and I'll accept it as soon as possible!**
 
 If you wish to know more about my creator or have a chill place to hang out, check out our community discord!
