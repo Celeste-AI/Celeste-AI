@@ -3,9 +3,9 @@
 While Celeste-AI is not open source, I do wish to provide a way for parties more interested in the technical side of her to find out more.
 This will **NOT** teach you how to setup a bot, but it will explain the more technical side ideas of Celeste-AI, do whatever with the information.
 
-I will not use any third party services that require me to connect to an API unless absolutely needed, as I want celeste to be able to communicate as fast as possible to the user for the best experience possible.
+I will not use any third party services that require me to connect to an API unless absolutely needed, as I want Celeste to be able to communicate as fast as possible to the user for the best experience possible.
 
-The goal is also not to make Celeste a "super genius" that can never fail, the goal of the project is to further my own personal research into social behaviors & interactions with an AI, also just because its [F.U.N](https://www.youtube.com/watch?v=64fetbSh89s)!
+The goal is also not to make Celeste a "super genius" that can never fail, the goal of the project is to further my own personal research into social behaviors & interactions with an AI, also just because it's [F.U.N](https://www.youtube.com/watch?v=64fetbSh89s)!
 
 The end goal of the project is to keep making her more autonomous to the point I don't need to intervene much anymore, and so far its been staying on that track.
 
@@ -18,17 +18,17 @@ I should note I am by no means an expert in the field, or a super genius, I am j
 ![image](https://github.com/Celeste-AI/Celeste-AI/assets/130422935/a28d7227-d40a-45d0-a8b1-b1d44f29a9ad)
 
 
-## Part 1: Understanding the social aspect of a online platform.
-⚠️ **Possibly one of the most important fundementals to consider while working on these things in my opinion**
+## Part 1: Understanding the social aspect of an online platform.
+⚠️ **Possibly one of the most important fundamentals to consider while working on these things in my opinion**
 * Due to this being an online social experience, you have to remember that people are people, at the end of the day if you don't understand this even a little.
-You will struggle and possibly even fail, and while I am not perfect at this myself, I do actively pay attention to how users talk and or engage with celeste to gauge if a feature does or doesn't work, and I make adjustments as I see fit.
+You will struggle and possibly even fail, and while I am not perfect at this myself, I do actively pay attention to how users talk and or engage with Celeste to gauge if a feature does or doesn't work, and I make adjustments as I see fit.
 
-* Of course not everyone is trusting of AI as well, so I try to mediate that by making celeste more over the top in expression to eleviate some of the uncanny valley of the bot just standing there menacingly, which is why you see her react visibly more, as that's one of the more visible things I've noticed that make people more comfortable.
+* Of course not everyone is trusting of AI as well, so I try to mediate that by making Celeste more over the top in expression to alleviate some of the uncanny valley of the bot just standing there menacingly, which is why you see her react visibly more, as that's one of the more visible things I've noticed that make people more comfortable.
 
-* In my own personal notes, I've noticed and adapted the idea of making her more expressionate not to confuse the user on her "validity as a human" but as a entity that
-won't hurt them, or spy on them, which is also why I don't like the idea of public streaming celeste in public lobbies and never will. (moderation might go brr tho in private channels).
+* In my own personal notes, I've noticed and adapted the idea of making her more expressive as to not confuse the user on her "validity as a human" but as a entity that 
+won't hurt them, or spy on them, which is also why I don't like the idea of public streaming Celeste in public lobbies and never will. (moderation might go brr tho in private channels).
 
-* I've also had to deal with many people who will straight up attack me and or belittle my work constantly as while its not much, it does mean a little bit to me as I put months of my time into my passion, I usually ignore invalid criticism, but some of them will even try to disrupt service, which is when unfortunately I have to actually moderate a instance, this is ALSO why I dislike it when people try to make assumptions or false claims on my projects because it tends to lead to people becoming hostile towards me and my work, while I am just trying to have fun and keep improving my service, this is also why celeste is in a public group instance, this allows me to have a bit more control of the people who refuse to act civilized, also is nice to kick crashers and malicious users :)
+* I've also had to deal with many people who will straight up attack me and or belittle my work constantly as while it's not much, it does mean a little bit to me as I put months of my time into my passion, I usually ignore invalid criticism, but some of them will even try to disrupt service, which is when unfortunately I have to actually moderate an instance, this is ALSO why I dislike it when people try to make assumptions or false claims on my projects because it tends to lead to people becoming hostile towards me and my work, while I am just trying to have fun and keep improving my service, this is also why celeste is in a public group instance, this allows me to have a bit more control of the people who refuse to act civilized, also is nice to kick crashers and malicious users :)
 
 * People who spread misinformation may not always be bad people either, some people just don't look into a project enough or at all and just assume, or now and then some people are ANTI-AI (usually due to bad experiences with AI in the past) I find it personally silly to think all Artificial Intelligence is bad because of one bad experience but to each their own, which is why I usually TRY to be patient, but sometimes even I fail at this, I am constantly trying to improve my behavior while also studying the effects of an AI in vrchat, and working on her with those ideas in mind, point being patience is key and you need to be patient with people as much as you can.
 
@@ -56,14 +56,14 @@ Once the conditions are met, she will then send this information over to her 'AI
 
 # Introducing [Whisper-AI](https://github.com/openai/whisper)
 
-Whisper AI once it recieves the decompressed audio buffer, takes in the information and then tries its best to transcribe it, since her computer is built for this task, she can do it quite quickly, she then also checks her filters and a secondary ai filter for specific cases of bad behavior, then returns the output of what she heard in text.
+Whisper AI once it receives the decompressed audio buffer, takes in the information and then tries its best to transcribe it, since her computer is built for this task, she can do it quite quickly, she then also checks her filters and a secondary ai filter for specific cases of bad behavior, then returns the output of what she heard in text.
 
 This can then be fed into the next part of her program.
 
 # Part 3: Response Generation
 Celeste 'thinks' by using a [HuggingFace transformers model ran locally](https://huggingface.co/docs/transformers/index).
 She can load any model that is compatible with huggingface.
-She basically sits her fat ass in the VRAM, which is why I like and or need stronger hardware.
+She basically sits largely in the VRAM, which is why I'd like and/or need stronger hardware.
 
 This is the "thinking phase" of celeste.
 
@@ -118,12 +118,12 @@ Celeste has a locally trained voice that was made for her, this allows her to so
 This can take a while to train however.
 
 This is the same for her singing voice which currently uses:
-[so-vits-fork](https://github.com/voicepaw/so-vits-svc-fork)
+[RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/)
 however I cannot do this live, I preload her up like a mp3 player.
 
 Back onto the topic of actually speaking, she has to double check that her AI can actually SAY a word before outputting it, sometimes she can crash due to trying to divide by zero (lol) if I don't do this. So she does some basic sanitization before trying to speak the response.
 
-During this, for each sentence break, celeste attempts to 'figure' out what emotion she has with a emotional wheel AI, if she does not detect any emotion to a certain degree she stays neutral, if she does she can use the following emotions.
+During this, for each sentence break, celeste attempts to 'figure' out what emotion she has with an emotional wheel AI, if she does not detect any emotion to a certain degree she stays neutral, if she does she can use the following emotions.
 
 **HAPPY**
 ![image](https://github.com/Celeste-AI/Celeste-AI/assets/130422935/1cbbcca0-38e7-4edd-bd98-29dcce02928b)
@@ -145,10 +145,10 @@ She sometimes guesses a lil off though, but in my opinion it adds to her persona
 
 ## Part 6: Visuals (WIP)
 Celeste is able to see technically, but I am still working out the fine details, she is also able to do object detection but that hasn't been ported over to the new version of her software yet, I am in the process of doing this as we finish some shader math to better understand the
-Position & Rotation of celeste in world space, which will eventually allow her to not need any assistance with moving anymore. (hopefully)
+Position & Rotation of Celeste in world space, which will eventually allow her to not need any assistance with moving anymore. (hopefully)
 
 ## Part 7: API-USAGE.
-In order to maximize the effect of her reach, she is able to [access the VRCHAT API](https://vrchatapi.github.io/).
+In order to maximize the effect of her reach, she can [access the VRCHAT API](https://vrchatapi.github.io/).
 This is ran on a seperate thread so it has no impact on her base functionality.
 This allows her to do the following:
 * Accept friend requests of vrchat users automatically.
@@ -157,7 +157,7 @@ This allows her to do the following:
 * Monitor for suspicious activity from third party individuals.
 
 ## Closing Statements
-All in all, Celeste is a really fun project to work on and I honestly truly want to keep improving her, I'm still learning so I am a little bit slow but each day I'm getting better at it, Celeste got me into python coding all those months back and I want to keep getting better.
-There is a TON more optimizations and cogs going on than what I have informed of in this passage, but I hope it paints the basic picture of celestes design and the future I'm going for and continue to go for, thank you for listening to my ted talk.
+All in all, Celeste is a really fun project to work on and I honestly truly want to keep improving her, I'm still learning so I am a little bit slow but each day I'm getting better at it, Celeste got me into Python coding all those months back and I want to keep getting better.
+There are a TON of more optimizations and cogs going on than what I have informed of in this passage, but I hope it paints the basic picture of Celeste's design and the future I'm going for and continue to go for, thank you for listening to my ted talk.
 
 If you have any questions feel free to reach out to me on our [discord server](https://discord.gg/RpqunvvNNF)
