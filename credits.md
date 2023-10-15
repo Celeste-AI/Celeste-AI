@@ -8,6 +8,8 @@ Anyone on this page, have directly contributed to celeste as a project, be it co
 ![Member=Operator](https://github.com/Celeste-AI/Celeste-AI/assets/130422935/90445428-d56a-4ad7-934b-9fb17499a115)
 I'm OPERATOR, I love making fun stuff for users and I hope you continue to enjoy talking to Celeste!
 
+Got a question? You should [join my discord!](https://discord.gg/RpqunvvNNF)
+
 ---
 
 ![Member=Nera](https://github.com/Celeste-AI/Celeste-AI/assets/130422935/39b8c387-bab3-4458-ade4-15bd4f53545c)
