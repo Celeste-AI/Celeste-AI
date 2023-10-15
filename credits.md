@@ -16,7 +16,8 @@ Got a question? You should [join my discord!](https://discord.gg/RpqunvvNNF)
 
 ---
 
-![Member=1TheBlueWii1](https://github.com/Celeste-AI/Celeste-AI/assets/130422935/7d18b4e8-c4cd-40af-a02b-a09459e10012)
+
+![Member=1TheBlueWii1](https://github.com/Celeste-AI/Celeste-AI/assets/130422935/2203dd90-ff24-4807-b673-8d70a571e6c6)
 
 ---
 ⭐
