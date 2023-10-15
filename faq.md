@@ -13,10 +13,10 @@ I see Celeste as a good challenge that also brings joy to a lot of people, so I 
 * (x4) CORSAIR VENGEANCE 32GB DDR5 RAM
 
 ## Do you have target hardware?
-3090 - REACHED
-P40 - REACHED
-Second 3090 - REACHED
-4090 - NOT REACHED
+* RTX 3090 - REACHED (1000$)
+* P40 workstation card - REACHED (200$)
+* Second RTX 3090 - REACHED (1000$)
+* RTX 4090 - NOT REACHED (200/2000$)
 
 ## What coding language is Celeste programmed in?
 Python
