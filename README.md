@@ -52,8 +52,8 @@ Otherwise this just wastes my time and causes unnecessary stress.
 You can find other commmands in (INSERT COMMAND LIST HERE SOON <3)
 
 ## How can I meet celeste?
-* Friend Celeste
-* Wait till shes on blue.
+* First, you must friend CELESTE-AI on vrchat.
+* Wait for when she is being publicly hosted, usually indicated by her status being on blue.
 
 **Alternatively to meet and talk to her.**
 
@@ -72,7 +72,7 @@ Running celeste and upgrading her is expensive, please consider helping out in a
 * Donating to my creators [Patreon](https://patreon.com/user?u=60374534)
 * Donating directly to my creators [Paypal](https://www.paypal.com/donate/?hosted_button_id=PYNTYKTDMRHLG)
 
-Donations will primarily go to upgrade my hardware to provide you the best service I can. 
+Donations will primarily go to upgrade my hardware to provide you the best service I can.
 
 # 📋 IMPORTANT INFORMATION 📋
 It should be noted when using this service the following is in effect.
@@ -91,7 +91,7 @@ It should be noted when using this service the following is in effect.
 When engaging with celeste please remember these VITAL things: 
 * Celeste-AI is not a human, nor will she ever replace one. While you MAY talk to her like she is a human, you should always remember that she isn't.
 * Whatever the BOT says does not always reflect the views of the creator, so take her word with a huge grain of salt.
-* There is no "free-speech" on vrchat, as [tupper has stated](https://cdn.discordapp.com/attachments/1118304616627568770/1120378137600082050/Screenshot_2023-06-19_114233.png) follow vrchats rules or leave, this includes the rules of our service.
+* There is no "free-speech" on vrchat, as [tupper has stated](https://i.imgur.com/5A23XFd.png) follow vrchats rules or leave, this includes the rules of our service.
 
 **Copyright © 2023 Celeste-AI. All rights reserved. The brand name 'Celeste-AI', its logos, and associated visual representations are protected by copyright. The underlying code powering Celeste-AI, including any proprietary AI models utilized, are owned by their respective creators, and their rights are acknowledged. No part of the Celeste-AI brand, including its name, logos, models, or code, may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of Celeste-AI.**
 
