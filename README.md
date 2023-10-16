@@ -20,6 +20,8 @@ CELESTE-AI ʜᴀs ʜᴀᴅ ᴀ ʟᴏᴛ ᴏғ ʜᴇʟᴘ ғʀᴏᴍ ᴛʜᴇ ᴄ
 ![Announcement2](https://github.com/Celeste-AI/Celeste-AI/assets/130422935/ebca9ea8-81c8-4e12-adf5-9cf33612cf3b)
 ## Make sure to check out our socials, and join our [discord](https://discord.gg/RpqunvvNNF) if you want to hear the when the new update comes out first!
 
+NEW AVATAR COMING SOON: [CLICK HERE](https://youtu.be/PF6YUljk_Mc?si=6p9u7vSmVEuXBgYJ)
+
 ---
 
 
