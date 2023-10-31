@@ -12,7 +12,7 @@ Let's embark on a journey of virtual experiences together and discover the endle
 
 CELESTE-AI ʜᴀs ʜᴀᴅ ᴀ ʟᴏᴛ ᴏғ ʜᴇʟᴘ ғʀᴏᴍ ᴛʜᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ, ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴛʜᴇᴍ [ʜᴇʀᴇ!](https://github.com/Celeste-AI/Celeste-AI/blob/main/credits.md)
 
-[we have target hardware not reached still](https://github.com/Celeste-AI/Celeste-AI/blob/main/faq.md), please consider [ʜᴇʟᴘɪɴɢ ᴏᴜᴛ!](https://ko-fi.com/operator)
+[Target hardware goals reached, but we could always need more help!](https://github.com/Celeste-AI/Celeste-AI/blob/main/faq.md), please consider [ʜᴇʟᴘɪɴɢ ᴏᴜᴛ!](https://ko-fi.com/operator)
 ---
 
 
