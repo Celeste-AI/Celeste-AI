@@ -16,7 +16,7 @@ I see Celeste as a good challenge that also brings joy to a lot of people, so I 
 * RTX 3090 - REACHED (1000$)
 * P40 workstation card - REACHED (200$)
 * Second RTX 3090 - REACHED (1000$)
-* RTX 4090 - NOT REACHED (200/2000$)
+* RTX 4090 - REACHED (1800/1800$) (was originally 2000, but found cheaper alternative) (Need to secure 4090 now!)
 
 ## What coding language is Celeste programmed in?
 Python
