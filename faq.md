@@ -55,4 +55,4 @@ Yes and no, Celeste has no real concept of what a thing is morally, so while she
 We are a community-driven initiative that operates independently from any government organization. While we strive to create an enjoyable environment where humor is shared, it is important to note that we do not have any affiliations or governance by official bodies.
 
 # Is there a place where I can talk to other people like myself who are interested in this tech or even developing it?
-Why yes there is! https://discord.gg/NknbAVryG7
+Currently due to situational changes, no you can however read about it [here!](https://docs.google.com/document/d/1ZTj7R4eupfsqX0RKKWAiGdhBfV0ZcSjiGK1Z4LnNlz4/edit)
