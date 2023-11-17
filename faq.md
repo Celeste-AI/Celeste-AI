@@ -7,16 +7,16 @@ interacted with. Honestly I've always been fascinated with computers and more re
 I see Celeste as a good challenge that also brings joy to a lot of people, so I wish to continue and keep upgrading her.
 
 ## Current Computer Specs:
-* (2x) RTX 3090 ASUS STRIX
-* (x1) P40 workstation card
+* (1x) RTX 4090 GIGABYTE OC- REACHED (1800$)
+* (1x) RTX 3090 ASUS STRIX OC
 * (1x) AMD Ryzen 9 7950x3D
 * (x4) CORSAIR VENGEANCE 32GB DDR5 RAM
 
 ## Do you have target hardware?
 * RTX 3090 - REACHED (1000$)
-* P40 workstation card - REACHED (200$)
+* P40 workstation card - REACHED (200$) (RE-SOLD to cover extra costs for better equipment)
 * Second RTX 3090 - REACHED (1000$)
-* RTX 4090 - REACHED (1800/1800$) (was originally 2000, but found cheaper alternative) (Need to secure 4090 now!)
+* RTX 4090 - REACHED (1800$)
 
 ## What coding language is Celeste programmed in?
 Python
