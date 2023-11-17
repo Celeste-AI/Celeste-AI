@@ -15,7 +15,7 @@ I see Celeste as a good challenge that also brings joy to a lot of people, so I 
 ## Do you have target hardware?
 * RTX 3090 - REACHED (1000$)
 * P40 workstation card - REACHED (200$) (RE-SOLD to cover extra costs for better equipment)
-* Second RTX 3090 - REACHED (1000$)
+* Second RTX 3090 - REACHED (1000$) (Given to my main PC after acquiring 4090)
 * RTX 4090 - REACHED (1800$)
 
 ## What coding language is Celeste programmed in?
