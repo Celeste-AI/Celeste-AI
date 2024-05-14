@@ -12,20 +12,8 @@ Let's embark on a journey of virtual experiences together and discover the endle
 
 CELESTE-AI ʜᴀs ʜᴀᴅ ᴀ ʟᴏᴛ ᴏғ ʜᴇʟᴘ ғʀᴏᴍ ᴛʜᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ, ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴛʜᴇᴍ [ʜᴇʀᴇ!](https://github.com/Celeste-AI/Celeste-AI/blob/main/credits.md)
 
-[Target hardware goals reached, but we could always need more help!](https://github.com/Celeste-AI/Celeste-AI/blob/main/faq.md), please consider [ʜᴇʟᴘɪɴɢ ᴏᴜᴛ!](https://ko-fi.com/operator)
+We have reached our last target hardware goals, but we could always need more help for further upgrades! Consider [ʜᴇʟᴘɪɴɢ ᴏᴜᴛ!](https://ko-fi.com/operator)!
 ---
-
-
-## COMING SOON: AMADEUS V.1.0.0
-![Announcement2](https://github.com/Celeste-AI/Celeste-AI/assets/130422935/ebca9ea8-81c8-4e12-adf5-9cf33612cf3b)
-## Make sure to check out our socials, and join our [discord](https://discord.gg/RpqunvvNNF) if you want to hear the when the new update comes out first!
-
-NEW AVATAR COMING SOON: [CLICK HERE](https://youtu.be/PF6YUljk_Mc?si=6p9u7vSmVEuXBgYJ)
-
----
-
-
-
 
 **You want to join me? [Simply send me a friend request](https://vrchat.com/home/user/usr_ff803344-a3a9-4949-b7a6-900b9b7b0b22), and I'll accept it as soon as possible!**
 
@@ -108,5 +96,5 @@ When engaging with celeste please remember these VITAL things:
 * Whatever the BOT says does not always reflect the views of the creator, so take her word with a huge grain of salt.
 * There is no "free-speech" on vrchat, as [tupper has stated](https://i.imgur.com/5A23XFd.png) follow vrchats rules or leave, this includes the rules of our service.
 
-**Copyright © 2023 OPPEYSTORE. All rights reserved. The brand name 'OPPEYSTORE', its logos, and associated visual representations are protected by copyright. The underlying code powering Celeste-AI, including any proprietary AI models utilized, are owned by their respective creators, and their rights are acknowledged. No part of the OPPEYSTORE brand, including its name, logos, models, or code, may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of OPPEYSTORE.**
+**Copyright © 2024 OPPEYSTORE. All rights reserved. The brand name 'OPPEYSTORE', its logos, and associated visual representations are protected by copyright. The underlying code powering Celeste-AI, including any proprietary AI models utilized, are owned by their respective creators, and their rights are acknowledged. No part of the OPPEYSTORE brand, including its name, logos, models, or code, may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of OPPEYSTORE.**
 
