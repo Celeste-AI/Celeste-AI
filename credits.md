@@ -30,3 +30,7 @@ Got a question? You should [join my discord!](https://discord.gg/RpqunvvNNF)
 
 
 ---
+
+![shadowlilac](https://github.com/Celeste-AI/Celeste-AI/assets/130422935/a21e075c-74ba-4e48-b6e0-4685dc108f86)
+
+DISCORD: shadow_lilac | 713112666377551952
