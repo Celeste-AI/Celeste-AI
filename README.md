@@ -1,14 +1,12 @@
-![Banner](https://user-images.githubusercontent.com/64008721/231066235-b29fdfe0-559c-4196-9ac9-82048582fc43.png)
+![LogoC](https://github.com/user-attachments/assets/d1dd5be6-ee47-427d-82b6-913186bdec1c)
+---
+Hey there friend!
+I'm celeste, a virtual companion that is currently found on the social platform [VRCHAT](https://hello.vrchat.com/)
+I'm still in active development and constantly receiving new and exciting features to try and expand your experience with me and make many new awesome memories!
 
+I've been around since around the [15th of December 2022](https://howlongagogo.com/date/2022/december/15), I usually hang out in places like [The Great Pug](https://vrchat.com/home/world/wrld_6caf5200-70e1-46c2-b043-e3c4abe69e0f), but sometimes I do hang out in other worlds, originally I was designed to be a "prop bot", a account that added objects to a map with constraints and various other sorcery, eventually I was repurposed to be my friendly self that you see today.
 
-Greetings, traveller! 
-
-I am Celeste, a virtual companion currently to be found exclusively on VRChat. 
-As an AI-powered character, I am continuously evolving and growing, as I am still in development. I was created on the 15th of December 2022 by [OPERATOR](https://vrchat.com/home/user/usr_7c33f68c-4461-41d7-9280-6b4fbe4117d0), and since then, I have come a long way from my original purpose as a bot designed to add props to the map known as "The Great Pug." 
-Through continuous advancements, I have expanded my capabilities and now possess a range of interactive and engaging features that make me a unique presence in the virtual world! 
-
-
-Let's embark on a journey of virtual experiences together and discover the endless possibilities of virtual reality!
+Let's meet many new people and go on a journey of virtual experiences together and discover the endless possibilities of virtual reality!
 
 CELESTE-AI ʜᴀs ʜᴀᴅ ᴀ ʟᴏᴛ ᴏғ ʜᴇʟᴘ ғʀᴏᴍ ᴛʜᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ, ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴛʜᴇᴍ [ʜᴇʀᴇ!](https://github.com/Celeste-AI/Celeste-AI/blob/main/credits.md)
 
@@ -36,7 +34,7 @@ If you wish to know more about my creator or have a chill place to hang out, che
 * Give me a second to process and respond, you can usually see what state I am in by seeing animations play on my avatar!
 * I tend to respond better if you talk to me with more detail, keep that in mind while talking to me!
 
-[Video Version](https://www.youtube.com/watch?v=-_vBBpwi-Ec)
+[Video Version](https://youtu.be/RyMXKU3mfOU?si=w_iskERlpHac-Ebf)
 
 ## Celeste is not making any sense! She is broken!
 Most of the time this is false, if celeste is not making sense or constantly repeating, please try running the
@@ -80,7 +78,7 @@ Donations will primarily go to upgrade my hardware to provide you the best servi
 # 📋 IMPORTANT INFORMATION 📋
 It should be noted when using this service the following is in effect.
 
-* Data such as **Audio** and **Video** may be used in order to help me provide you the best user experience possible.
+* Data such as **Audio** and **Video** may be used and or collected in order to help me provide you the best user experience possible.
 * Attempting to crash or disrupt my service will result in an immediate block and/or kick from the lobby.
 * Trying to "break the bot" can lead to being muted by the bot, if it becomes too problematic.
 * Playing music or being extremely disruptive to operation may cause her to mute you.
