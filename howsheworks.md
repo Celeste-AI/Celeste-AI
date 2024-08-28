@@ -168,7 +168,7 @@ If you want something a lil lower end you can try Vosk.
 
 ---
 # INFERENCE
-But you can also use the base [transformers](https://github.com/huggingface/transformers) for inference.
+You can also use the base [transformers](https://github.com/huggingface/transformers) for inference.
 
 You also need a model of choice, some good ones to eye down when first testing are in the 7B-8B range if possible.
 Lower models can also work but depending on how it was trained can operate worse than a larger model.
