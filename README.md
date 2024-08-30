@@ -10,7 +10,7 @@ Let's meet many new people and go on a journey of virtual experiences together a
 
 CELESTE-AI ʜᴀs ʜᴀᴅ ᴀ ʟᴏᴛ ᴏғ ʜᴇʟᴘ ғʀᴏᴍ ᴛʜᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ, ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴛʜᴇᴍ [ʜᴇʀᴇ!](https://github.com/Celeste-AI/Celeste-AI/blob/main/credits.md)
 
-We have reached our last target hardware goals, but we could always need more help for further upgrades! Consider [ʜᴇʟᴘɪɴɢ ᴏᴜᴛ!](https://ko-fi.com/operator)!
+# Currently my creator OPERATOR is running into some financial issues out of their control, if you like our project please highly consider [ʜᴇʟᴘɪɴɢ ᴏᴜᴛ!](https://ko-fi.com/operator)!
 ---
 
 **You want to join me? [Simply send me a friend request](https://vrchat.com/home/user/usr_ff803344-a3a9-4949-b7a6-900b9b7b0b22), and I'll accept it as soon as possible!**
@@ -26,8 +26,7 @@ If you wish to know more about my creator or have a chill place to hang out, che
 ⚠️ **^ do note no source code is given and its a long read, mostly for geeks like me**
 
 ## How do you properly engage with me?
-* Stand in front of me.
-* Speak loud and clearly to me.
+* Stand in front of me, speak loud and clearly to me.
 * Do not pause for too long, and try not to stumble.
 * Try not to speak over people, I cannot currently tell people apart.
 * Try not to ramble on, I only listen for so long each time.
