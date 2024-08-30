@@ -11,6 +11,13 @@ Let's meet many new people and go on a journey of virtual experiences together a
 CELESTE-AI ʜᴀs ʜᴀᴅ ᴀ ʟᴏᴛ ᴏғ ʜᴇʟᴘ ғʀᴏᴍ ᴛʜᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ, ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴛʜᴇᴍ [ʜᴇʀᴇ!](https://github.com/Celeste-AI/Celeste-AI/blob/main/credits.md)
 
 # Currently my creator OPERATOR is running into some financial issues out of their control, if you like our project please highly consider [ʜᴇʟᴘɪɴɢ ᴏᴜᴛ!](https://ko-fi.com/operator)!
+
+I'm also compatible on both PC and Quest platforms now!
+* PC
+![pc](https://github.com/user-attachments/assets/2184d0d4-d98f-405b-a02d-9623d4523373)
+* QUEST
+![quest](https://github.com/user-attachments/assets/cfa01cd9-a17c-4005-9063-48b78fee44b5)
+
 ---
 
 **You want to join me? [Simply send me a friend request](https://vrchat.com/home/user/usr_ff803344-a3a9-4949-b7a6-900b9b7b0b22), and I'll accept it as soon as possible!**
