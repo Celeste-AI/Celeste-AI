@@ -1,4 +1,5 @@
-![MainBanner](https://user-images.githubusercontent.com/130422935/231066942-2bacb1b8-3e14-4d74-9cb7-6fdfc070fd44.png)
+![LogoC](https://github.com/user-attachments/assets/56287918-48d2-436f-89ae-d1aab036c8b1)
+---
 # Frequently asked questions
 ## Why create Celeste?
 When I originally made Celeste's account it wasn't for AI at all, originally I made it to add props to the map as I used to do a lot of fun stuff with avatars.
@@ -34,6 +35,7 @@ No, Celeste is intended to stay private.
 ## Celeste seems to be able to call back on previous topics! SO YOU ARE COLLECTING DATA?!
 * No, Celeste only caches the previous 7 messages back (7 messages for the user, and 7 for her).
 * Conversation is reset after 30 seconds, OR when her conversational buffer max is hit, she will remove the oldest.
+* In the future she may remember more data across sessions, but this is not training this is a expanded memory backend at best.
 
 ## Are any of the responses controlled by you?
 * If I force Celeste to say anything it will have a ⭐ in front of it.
@@ -45,7 +47,8 @@ hopefully be phased out into its own thing if things go well, just other stuff b
 
 # CURRENT STATUS TILL (HOPEFULLY) FULL AUTOMATION:
 * POSITION = 100%
-* ROTATION = 96%
+* ROTATION = 100%
+* TARGETING = 40%
 * PATHFINDING = 0%
 
 ## Is celeste being truthful on every topic?
