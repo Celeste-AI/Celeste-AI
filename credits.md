@@ -1,5 +1,7 @@
-![Contributors Banner](https://github.com/Celeste-AI/Celeste-AI/assets/130422935/b6be0758-b603-496d-a451-9716a4dc5a59)
-Anyone on this page, have directly contributed to celeste as a project, be it code, visuals, or anything of that sort!
+![LogoC](https://github.com/user-attachments/assets/56287918-48d2-436f-89ae-d1aab036c8b1)
+---
+Anyone on this page, have directly contributed
+ to celeste as a project, be it code, visuals, or anything of that sort!
 
 * If a contributor is marked with a ⭐ their profile has a link embedded in it!
 
