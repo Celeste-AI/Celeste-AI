@@ -7,19 +7,19 @@ if they so choose to persue making their own AI companion.
 
 This page will **NOT** teach you how to fully setup a bot, but it will explore the concepts and some tools that can be userful for making a BOT like her.
 
+* ⚠️ Do note not **EVERYTHING** is included in this documentation as some things are not public (security stuff, etc etc) or are just expected to be seen when you talk to her, there is a lot going on under the hood to create what you see talking to you, so I may have also missed some things as well.
+
 This information panel assumes you have a rig capable of running lots of different machine learning software, you can substitute with API's but I don't currently do that so I won't be as much of help there.
 
-I don't use any third party API unless absolutely needed ([vrchat api goes brr](https://github.com/vrchatapi/vrchatapi-python)), as I want Celeste to be able to communicate as fast as possible to the user for the best experience possible, and have mostly my own full control over my local software.
-
+* ⚠️ The only real API I currently use is the unofficial ([vrchat api](https://github.com/vrchatapi/vrchatapi-python)).
+  
 I should note I am by no means an expert in the field, or a super genius, I am just someone who likes making bot go brrr.
 
 ⚠️ **This is a huge read, if you don't care enough then don't waste your time, if you're interested in the small stuff, have fun**
 
 ✅ Alternatively: Here's a picture that explains the basic idea.
 
-
 ![visual](https://github.com/user-attachments/assets/bc66d014-d616-4017-87ab-32b919cf5d6b)
-
 
 ## Part 1: Understanding the social aspect of an online platform. ⚠️ (IMPORTANT) ⚠️
 
@@ -27,19 +27,19 @@ Before you start creating a BOT for an online service please be wary of these ma
 
 * Not all platforms will allow and or endorse your creations, and in some cases they may even ban them depending on if it violates their individual TOS and or Community Guidelines.
 
-* When creating a social AI bot you should really pay attention to the people who are engaging with your creation, not just for moderation reasons but to better finetune your BOTs 'acceptance' level by people, some people tend to get scared or aggressive with the aspect of a not human entity talking to them, and while all may not enjoy, factor in the people aspect when making decisions as its important for a **CHAT** bot with human nature in mind, I personally pay active attention to most conversations and make mental or physical notes if I think something works or does not work.
+* When creating a social AI bot you should really pay attention to the people who are engaging with your creation, not just for moderation reasons but to better finetune your BOTs 'acceptance' level by people, some people tend to get scared or aggressive with the aspect of a not human entity talking to them, and while all may not enjoy, factor in the human reaction aspect when making decisions as its important for a **CHAT** bot to be designed with human nature in mind, I personally pay active attention to most conversations and make mental or physical notes if I think something works or does not work.
 
 * Please practice "safe-botting", do not lie to people who use your BOT and try to make it seem more than it is (unless you're just messing around), or promise a fully realized companion, in almost all cases except rarely this is really stretched
 and can cause damage to peoples mentality, it's good to make sure people who talk to it realize that while its fun, that they shouldn't form the same bonds to that of a human with your creation.
 
 * Expressive and cutesy behavior tends to make people feel more comfortable with your creation, and lowers the chance of aggressive outbursts by people I've noticed, try to use things like that to your
-advantage, you can't please everyone but you can at least make a effort to make people feel comfortable.
+advantage, you can't please everyone but you can at least make a effort to make people feel comfortable, it doesn't need to convince them they're a real person (and probably never will) but it can be used to alievate stress off the person engaging with said bot.
 
 * Currently in the machine learning scene especially there are a LOT of people who harbor ill will due to misuse of machine learning tech by other people who do not have the same ideals and or
 care for actual artists works, while things can be all fun and games, consider being a good example and not misusing tech for your own gain that purely rips off other peoples works, like AI art generation, atleast don't try to make a profit directly off of it or have it as your main focal point, Don't **EVER** try to badmouth actual artists, you are working a generative model that is pretrained in most cases on prior data, what you do with it does not qualify you as the same level as an artist. (Unless of course you make your own works, but using AI alone does not make you 'good' at art, and if you genuinely say this you are part of the problem)
 
 * You will most likely face lots of criticism on top of the people who are curious and genuinely want to see where your project may go, this is again because of previous misuse by some parties, the best thing to do
-is not let it get to you and to ignore invalid criticism unless its constructive, and understand that not everyone likes this technology even though it may not be the same technology as what they are actually angry at, if they continue to bother you, don't engage or yell at them as that will only increase anger towards you, it's best to stay passive and understanding that people are misinformed a lot about this technology.
+is not let it get to you and to ignore invalid criticism unless its constructive, and understand that not everyone likes this technology even though it may not be the same technology as what they are actually angry at, if they continue to bother you, don't engage or yell at them as that will only increase anger towards you, it's best to stay passive and understanding that people are misinformed a lot about this technology, some communities besides our own already falter in this area a lot and it has not helped their image at all, we usually try to avoid that as much as possible.
 
 * (VRChat-specific) What you do in the BOT scene can and will reflect the bigger picture as a whole, as while BOTS are not banned from this platform, if they become more of a nuisance or you incorrectly hand out tech to just anyone without any effort on their part, you further risk that the whole scene will be banned or having a "bot crisis", it's still good to give tips and pointers, just be mindful what you do if you think it could affect lots of other people.
 
@@ -50,6 +50,9 @@ All in all, you need to understand that there are a LOT of ups and downs when ru
 ---
 ## Part 2: States, and what they mean!
 Celeste has many states that do various different things, each one controls another part of her code and or allow her to do various actions.
+There's a lot of stuff going on behind the scenes but theres a lot of common things that go on ontop of the more rare ones, so while every specific variation may not be listed and full info may not be there here is
+the general idea behind each common state.
+
 * # IDLE
 > In this state she is not really doing anything of note and is just standing by idle waiting for external or internal forces to act against her.
 
@@ -122,6 +125,7 @@ Affects of this state:
 * Interrupts IDLE state.
 * Checked at a Interval of one minute.
 * Can accept up to 10 friends at a time.
+* Invites her new friends to our group if they aren't already in it.
 * Has reactionary voice lines for both singular and multiple friend requests.
 * Waits for celeste to finish talking if she already is before firing.
 * She makes cool new friends and announces who added her if she can.
@@ -138,6 +142,7 @@ These are states that happen during chatting, and are selected depending on the 
 ![joy](https://github.com/user-attachments/assets/7130650c-8f07-43e2-b516-e183ada6e3ae)
 ---
 * SADNESS
+* Will cause chatbubble text to be smaller text | Currently Disabled as it makes it too hard to read.
 ![sadness](https://github.com/user-attachments/assets/5faf34b9-8d01-4ea2-a2b4-6b7915dbacb1)
 ---
 * ANGER
@@ -159,12 +164,13 @@ These are states that happen during chatting, and are selected depending on the 
 If you wish to copy Celestes current computer specs (rip your wallet)
 You can find them at the [frequently asked questions](https://github.com/Celeste-AI/Celeste-AI/blob/main/faq.md#current-computer-specs)!
 
+You may be able to get away with less, but it would make it harder to do some stuff without extreme optimizations, and cutting corners.
+
 ---
 # TRANSCRIPTION
 You'll need something that can transcribe text, I recommend:
 [Whisper-AI](https://github.com/openai/whisper)
-If you want something a lil lower end you can try Vosk.
-[Vosk](https://github.com/alphacep/vosk-api)
+If you want something a lil lower end you can try [Vosk](https://github.com/alphacep/vosk-api).
 
 ---
 # INFERENCE
@@ -181,6 +187,9 @@ Currently Celeste runs at 4Bit with various other optimizations that may not be 
 Celeste-AI is able to 'memorize' data on what she has heard, this allows her to call back on prior information that was brought up in a conversation.
 This also allows her to continue a conversation in a more fluid way ~~when she wants to fucking behave~~
 
+* ⚠️ In recent updates she now has a newer version of her memory I dub cutely the "InfiniMemory core", its basically the old version of her memory systems but with near infinity taken into account, I usually for now
+it at 999 memories, but it can technically go as far as I want, older memories are kept in "backround storage" until needed or erased.
+
 This has led to her having extremely detailed responses at times, which can cause pretty wild and or fun interactions.
 This information is however deleted unless pulled by me manually **(usually in moderation or bug fix cases).**
 
@@ -189,24 +198,30 @@ This timeframe expands if she hears any noise, and while shes responding, effect
 
 I don't believe in using user information to train without consent, nor do I think it is right, so I will never train off of data that a user says in game.
 So all data except on specific cases are trashed (moderation/pulled) to respect privacy of each user, if you are developing a bot I highly recommend you do similar practices.
+* ⚠️ While not training, I have considered allowing her to remember more things about previous interactions but I'm on the fence for it right now due to previous concerns.
 
 Currently I use a semi-custom solution so I don't have any good things that I can point towards, but I highly recommend looking into [RAG](https://aws.amazon.com/what-is/retrieval-augmented-generation/) as thats
 basically all it is.
 ---
 # SPEAKING.
-Originally she used "microsoft cortana" or "eva", this was done by modifying registry files to allow her voice
-to be used as a tts, this method is not used anymore for her new voice, instead 
+Originally back when Celeste started she used "microsoft cortana" aka "eva" this was done by modifying registry files to allow access to her voice to then be used
+as a TTS, this method is not used for her voice anymore, instead [Coqui-TTS](https://github.com/coqui-ai/TTS) is used instead, which allows her to have her own unique and custom voice.
 
 ![image](https://github.com/Celeste-AI/Celeste-AI/assets/130422935/d8a0a345-b83c-42f5-ba14-47ea833f8f97)
 
-[Coqui-TTS](https://github.com/coqui-ai/TTS) is used instead, which allows her to have her own voice.
+She was trained with a custom trainer loop I made that allowed me to create voices by just putting what voice I wanted in the same folder, and it handled the rest.
+Her voice is done completely local using this software that way theres no api costs and fast responses are made on demand.
 
-She was trained using my custom software that combines whisper and reused portions of her hearing code, this allows me to copy any voice insanely quickly just by dragging files into folders as long as I have lots of data on the voice.
+Here is the current workflow for Celeste:
 
-Celeste has a locally trained voice that was made for her, this allows her to sound more 'unique' without the costs of using an API service.
-This can take a while to train however.
+* Text that represents what she wants to say is made.
+* Text is split into chunks usually seperated by punctuation except in certain situations.
+* Emotions are calculated ahead of time for each split and attached to each text reference for later.
+* She plays the first audio she generates, meanwhile in the background if there is any, it is being pre-generated so she can go right to the next one once done.
+* Voice is outputted to re-routed microphone, until all the voice lines are completed.
 
-She has to double check that her AI can actually SAY a word before outputting it, sometimes she can crash due to trying to divide by zero (lol) if I don't do this. So she does some basic sanitization before trying to speak the response.
+Eventually I want to possibly replace coqui but I havent found a suitable low latency replacement just yet.
+
 ---
 
 # Visuals (WIP)
@@ -219,6 +234,7 @@ This allows her to do the following:
 * Accept friend requests of vrchat users automatically, and fire the friend request event.
 * Read out names of people who have added her, the "thanks for adding me" text she spouts.
 * Invite them to our group.
+* Reply to join requests and invite requests.
 * Monitor for suspicious activity from third party individuals.
 
 ## Closing Statements
