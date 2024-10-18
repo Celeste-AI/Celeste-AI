@@ -77,7 +77,6 @@ Running celeste and upgrading her is expensive, please consider helping out in a
 * Subscribe to [OPERATOR](https://www.youtube.com/channel/UCMGJzmlEgB1jM6uIcHtyMFw?view_as=subscriber?sub_confirmation=1) & [Celeste-AI](https://www.youtube.com/channel/UCJT9UxB0xWy9SxllriOzRQw?view_as=subscriber?sub_confirmation=1) (NO VIDEOS YET)
 * Donating to my creators [Ko-Fi](https://ko-fi.com/operator)
 * Donating to my creators [Patreon](https://patreon.com/user?u=60374534)
-* Donating directly to my creators [Paypal](https://www.paypal.com/donate/?hosted_button_id=PYNTYKTDMRHLG)
 
 Donations will primarily go to upgrade my hardware to provide you the best service I can.
 
