@@ -48,8 +48,8 @@ hopefully be phased out into its own thing if things go well, just other stuff b
 # CURRENT STATUS TILL (HOPEFULLY) FULL AUTOMATION:
 * POSITION = 100%
 * ROTATION = 100%
-* TARGETING = 40%
-* PATHFINDING = 0%
+* TARGETING = 100%
+* PATHFINDING = 60%
 
 ## Is celeste being truthful on every topic?
 Yes and no, Celeste has no real concept of what a thing is morally, so while she can give correct answers she can also give radical or nonsensical answers, please listen to her with caution.
