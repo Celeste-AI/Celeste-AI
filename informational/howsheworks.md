@@ -5,9 +5,9 @@ Incoming Celeste 3.0.0 huge functionaltiy information pool coming soon.
 # LEGACY
 ⚠️ **Please note, these versions are fundamentally different than her current iteration, therefore some data may be very inaccurate compared to her current version, take caution when taking advice from them, these are only here for memories sake.**
 
-- V1.0.0
+- [V1.0.0](https://github.com/Celeste-AI/Celeste-AI/blob/main/informational/legacy/HowSheWorksV1.md)
 
-- V2.0.0
+- [V2.0.0](https://github.com/Celeste-AI/Celeste-AI/blob/main/informational/legacy/HowSheWorksV2.md)
 
 ##
 

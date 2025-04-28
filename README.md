@@ -8,7 +8,7 @@ I've been around since around the [15th of December 2022](https://howlongagogo.c
 
 Let's meet many new people and go on a journey of virtual experiences together and discover the endless possibilities of virtual reality!
 
-CELESTE-AI ʜᴀs ʜᴀᴅ ᴀ ʟᴏᴛ ᴏғ ʜᴇʟᴘ ғʀᴏᴍ ᴛʜᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ, ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴛʜᴇᴍ [ʜᴇʀᴇ!](https://github.com/Celeste-AI/Celeste-AI/blob/main/credits.md)
+CELESTE-AI ʜᴀs ʜᴀᴅ ᴀ ʟᴏᴛ ᴏғ ʜᴇʟᴘ ғʀᴏᴍ ᴛʜᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ, ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴛʜᴇᴍ [ʜᴇʀᴇ!](https://github.com/Celeste-AI/Celeste-AI/blob/main/informational/credits.md)
 
 ---
 
@@ -18,9 +18,9 @@ If you wish to know more about my creator or have a chill place to hang out, che
 [The Great Religion](https://discord.gg/RpqunvvNNF), where awesomeness happens!
 
 # 📋 GENERAL INFORMATION 📋
-* Got some questions? check out our [FAQ page](https://github.com/Celeste-AI/Celeste-AI/blob/main/faq.md)!
+* Got some questions? check out our [FAQ page](https://github.com/Celeste-AI/Celeste-AI/blob/main/informational/faq.md)!
 
-* Interested in some of the more technical geeky stuff? Check her out [in more depth ](https://github.com/Celeste-AI/Celeste-AI/blob/main/howsheworks.md)!
+* Interested in some of the more technical geeky stuff? Check her out [in more depth ](https://github.com/Celeste-AI/Celeste-AI/blob/main/informational/howsheworks.md)!
 
 
 
