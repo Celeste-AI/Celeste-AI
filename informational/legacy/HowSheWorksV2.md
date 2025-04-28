@@ -1,6 +1,7 @@
 
 ![LogoC](https://github.com/user-attachments/assets/ff1d3629-bb5e-4fac-8517-aefb15d28f9c)
-
+# ⚠️ LEGACY INFORMATION PAGE
+This information is a from a previous version, for more up-to-date information [click here](https://github.com/Celeste-AI/Celeste-AI/blob/main/informational/howsheworks.md)!
 # Important Information before proceeding.
 Celeste is currently not fully open source and may never be, while I don't plan to make her programming open source I am personally not against helping people with pointers
 if they so choose to persue making their own AI companion.

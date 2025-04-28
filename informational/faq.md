@@ -79,7 +79,7 @@ Otherwise this just wastes my time and causes unnecessary stress.
 
 ⚠️ **This can change at anytime, when using our service you understand that we can use the data as we see fit, however we do believe in privacy in most cases so we try not to overstep unless absolutely neccessary, example being moderation, you are constantly being monitored by our software, and if you should break our TOS and or the platform that she is currently on, you will be moderated and possibly reported to the appropriate mod teams of said platform, potentially even being barred from our services and or servers if need be.**
 
-* [For more information about how our service works, click here!](google.com)
+* [For more information about how our service works, click here!](https://github.com/Celeste-AI/Celeste-AI/blob/main/informational/howsheworks.md)
 
 ## IS EVERYTHING SHE SAYS YOUR VIEWS?
 Whilst we joke that "anything she says is canon", that is far from the truth.

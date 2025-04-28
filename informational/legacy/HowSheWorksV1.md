@@ -1,4 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/64008721/231066235-b29fdfe0-559c-4196-9ac9-82048582fc43.png)
+# ⚠️ LEGACY INFORMATION PAGE
+This information is a from a previous version, for more up-to-date information [click here](https://github.com/Celeste-AI/Celeste-AI/blob/main/informational/howsheworks.md)!
 # Introductory.
 While Celeste-AI is not open source, I do wish to provide a way for parties more interested in the technical side of her to find out more.
 This will **NOT** teach you how to setup a bot, but it will explain the more technical side ideas of Celeste-AI, do whatever with the information.
