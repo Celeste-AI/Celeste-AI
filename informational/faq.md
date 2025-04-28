@@ -83,7 +83,7 @@ Otherwise this just wastes my time and causes unnecessary stress.
 
 ## IS EVERYTHING SHE SAYS YOUR VIEWS?
 Whilst we joke that "anything she says is canon", that is far from the truth.
-Celeste-AI is a LLM that can be a bit unpredictable at times, whilst we may be able to guide her personality slightly, in most cases whilst talking to her, you're at the mercy of her currently processes at the time, your experience may differ radically compared to someone elses.
+Celeste-AI is a LLM that can be a bit unpredictable at times, whilst we may be able to guide her personality slightly, in most cases whilst talking to her, you're at the mercy of her current processes at the time, your experience may differ radically compared to someone elses.
 
 ## ARE YOU THE GOVERNMENT?
 We are a community-driven initiative that operates independently from any government organization. While we strive to create an enjoyable environment where humor is shared, it is important to note that we do not have any affiliations or governance by official bodies.
