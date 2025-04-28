@@ -1,15 +1,13 @@
-![LogoC](https://github.com/user-attachments/assets/56287918-48d2-436f-89ae-d1aab036c8b1)
----
-Anyone on this page, have directly contributed
- to celeste as a project, be it code, visuals, or anything of that sort!
+![Contributors Banner](https://github.com/Celeste-AI/Celeste-AI/assets/130422935/b6be0758-b603-496d-a451-9716a4dc5a59)
+Everyone who finds an interest in my project and supports me directly or just by word of mouth is a contributor in my eyes, however the people below are people who have directly contributed to the project in a production viewpoint.
 
-* If a contributor is marked with a ⭐ their profile has a link embedded in it!
+⚠️ **Contributors marked with a ⭐ have a link embedded on it.**
 
 # CONTRIBUTORS
----
+
 ⭐
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/130422935/275341972-90445428-d56a-4ad7-934b-9fb17499a115.png">](https://twitter.com/REOPERATORR)
-I'm OPERATOR, I love making fun stuff for users and I hope you continue to enjoy talking to Celeste!
+I'm the creator of Celeste-AI, without me she wouldn't exist!
 
 Got a question? You should [join my discord!](https://discord.gg/RpqunvvNNF)
 
@@ -26,8 +24,6 @@ Got a question? You should [join my discord!](https://discord.gg/RpqunvvNNF)
 ![shadowlilac](https://github.com/Celeste-AI/Celeste-AI/assets/130422935/a21e075c-74ba-4e48-b6e0-4685dc108f86)
 
 DISCORD: shadow_lilac | 713112666377551952
-
-# OLD CONTRIBUTORS
 
 ---
 
