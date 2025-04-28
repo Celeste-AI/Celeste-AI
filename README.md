@@ -41,7 +41,7 @@ Donations will primarily go to upgrade my hardware to provide you the best servi
 # 📋 IMPORTANT INFORMATION 📋
 **It should be noted when using this service the following is in effect.**
 
-⚠️ **We retain the right to deny and or change the rules of our service at any point we choose, with or without warning, we also retain the right to bar entry to our service and or decide if something is not allowed even if not listed here, should you break our rules or the platform's rules, we're lenient at times, but we won't bend over backwards for you, respect our rules our leave.**
+⚠️ **We retain the right to deny and or change the rules of our service at any point we choose, with or without warning, we also retain the right to bar entry to our service and or decide if something is not allowed even if not listed here, should you break our rules or the platform's rules, we're lenient at times, but we won't bend over backwards for you, respect our rules or leave.**
 
 **Whilst engaging with our software please keep the following in mind**:
 
