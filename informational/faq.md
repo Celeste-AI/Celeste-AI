@@ -1,31 +1,24 @@
-![MainBanner](https://user-images.githubusercontent.com/130422935/231066942-2bacb1b8-3e14-4d74-9cb7-6fdfc070fd44.png)
-# FREQUENTLY ASKED QUESTIONS
+#
+<img src="../informational/resources/logo2.png"/>
+
+#
+[>>> CONSIDER SUPPORTING OUR PROJECT!!](../informational/pages/support.md) 💖
 
 ## CAN I MEET YOU GUYS?
  [Make some great new friends in our discord server!](https://discord.gg/RpqunvvNNF)
 
 ## HOW DID CELESTE COME TO BE?
-Originally back when I created Celeste, she wasn't really meant to be a robot that could talk to people at all, she was originally meant to be a "prop bot", IE a bot that was capable of spawning in props to be placed in specific locations on a map, thus creating a fun and unique experience whenever it was in your lobby, over time as I kept adding onto it, it kept improving and then the scope changed to what we have today, and theres still a ton more areas I want to explore, as I also use celeste as a learning-project ontop of experimenting crazy and wacky ideas.
+Originally back when I created Celeste, she wasn't really meant to be a robot that could talk to people at all, she was originally meant to be a "prop bot", IE a bot that was capable of spawning in props to be placed in specific locations on a map, thus creating a fun and unique experience whenever it was in your lobby. Over time as I kept adding onto it, it kept improving and then the scope changed to what we have today, and theres still a ton more areas I want to explore, as I also use celeste as a learning-project ontop of experimenting crazy and wacky ideas.
 
 
 ## HOW CAN I MEET CELESTE?
-* If you wanna find her easilly first must friend [Celeste-AI on VRChat.](https://vrchat.com/home/user/usr_ff803344-a3a9-4949-b7a6-900b9b7b0b22)
+* If you wanna find her easilly first you must friend [Celeste-AI on VRChat.](https://vrchat.com/home/user/usr_ff803344-a3a9-4949-b7a6-900b9b7b0b22)
 * Wait for when she is being publicly hosted, usually indicated by a blue status.
 
 **Consider joining our discord to make it easier.**
 * [Click here for our discord.](https://discord.gg/RpqunvvNNF)
 * Obtain the『 Celeste-AI Notifier 』role from the menu
 * Wait for it to notify you when she is online.
-
-## HOW DO I TALK TO HER PROPERLY?
-* Stand infront of celeste.
-* Speak loud and as clearly as possible towards her.
-* Start talking, the more detailed the more detailed her response.
-* Do not pause for too long, and try not to stumble, just say what you want to say.
-* Speak to her one at a time, she cannot tell people apart as of current.
-* Give her time to process, and there you go!
-
-### [VIDEO EXAMPLE](https://youtu.be/RyMXKU3mfOU?si=w_iskERlpHac-Ebf) (REPLACING SOON)
 
 ## SHES NOT MAKING SENSE! SHE IS BROKEN!
 
@@ -36,13 +29,11 @@ If Celeste doesn't seem to be making sense, sometimes saying "reset" may put her
 ⚠️ **Abuse of this function could lead to moderation action.**
 
 
-
-
 **⬇️ IF SHE DOES ANY OF THIS, SHE MAY BE ACTUALLY BROKEN! ⬇️**
 * Not responding to visual or auditorial data.
 * Chatbubbles not working.
 
-Otherwise this just wastes my time and causes unnecessary stress.
+Otherwise mentions of this just wastes my time and causes unnecessary stress.
 
 ## WHATS YOUR CURRENT CURRENT HARDWARE?
 * (1x) RTX 4090 GIGABYTE OC
@@ -53,9 +44,15 @@ Otherwise this just wastes my time and causes unnecessary stress.
 ## DO YOU HAVE ANY TARGET HARDWARE?
 * CURRENTLY NONE (REACHED GOALS)
 
+However more funding always helps!
+
 ## WHAT PROGRAMMING LANGUAGES DO YOU KNOW?
 * Python **(Celeste-AI is written in Python)**
 * Lua
+* Very little java
+* Very little C#
+
+I am a self-taught programmer.
 
 ## IS SHE OPEN SOURCE?
 **TLDR:** <ins>Not interested in it for now.</ins>
@@ -63,9 +60,9 @@ Otherwise this just wastes my time and causes unnecessary stress.
 ### More in-depth answer:
 * Due to me actively still working on her, I do not wish to open source her at this time.
 
-* There is some technology on celeste that could be heavilly abused by people and I'd rather not open that can of worms myself.
+* There is some technology on celeste that could be heavily abused by people and I'd rather not open that can of worms myself.
 
-* I'm not fully against open sourcing some small stuff, but if I do it will be what I think is safe and fine for myself and the community as a whole, I will not be pressured into open-sourcing what I don't feel comfortable with, however I am also willing to give pointers to people when requested.
+* I'm not fully against open sourcing some small stuff, but if I do it will be what I think is safe and fine for myself and the community as a whole. I will not be pressured into open-sourcing what I don't feel comfortable with, however I am also willing to give pointers to people when requested.
 
 ## WHAT LANGUAGES DO YOU SUPPORT?
 * English **(MAIN LANGAUGE)**
@@ -79,7 +76,7 @@ Otherwise this just wastes my time and causes unnecessary stress.
 
 ⚠️ **This can change at anytime, when using our service you understand that we can use the data as we see fit, however we do believe in privacy in most cases so we try not to overstep unless absolutely neccessary, example being moderation, you are constantly being monitored by our software, and if you should break our TOS and or the platform that she is currently on, you will be moderated and possibly reported to the appropriate mod teams of said platform, potentially even being barred from our services and or servers if need be.**
 
-* [For more information about how our service works, click here!](https://github.com/Celeste-AI/Celeste-AI/blob/main/informational/howsheworks.md)
+* [For more information about how our service works, click here!](../informational/howsheworks.md)
 
 ## IS EVERYTHING SHE SAYS YOUR VIEWS?
 Whilst we joke that "anything she says is canon", that is far from the truth.
@@ -87,3 +84,8 @@ Celeste-AI is a LLM that can be a bit unpredictable at times, whilst we may be a
 
 ## ARE YOU THE GOVERNMENT?
 We are a community-driven initiative that operates independently from any government organization. While we strive to create an enjoyable environment where humor is shared, it is important to note that we do not have any affiliations or governance by official bodies.
+---
+---
+---
+**Copyright © 2022-2025 OPPEYSTORE. All rights reserved. The brand name 'OPPEYSTORE', its logos, and associated visual representations are protected by copyright. The underlying code powering Celeste-AI, including any proprietary AI models utilized, are owned by their respective creators, and their rights are acknowledged. No part of the OPPEYSTORE brand, including its name, logos, models, or code, may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of OPPEYSTORE.**
+
