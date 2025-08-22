@@ -14,18 +14,18 @@ If you are looking to meet some fun people, or perhaps you are wanting to ask qu
 # 🎓 [KEY-INFORMATION] 🎓
 Standard functionality and ethics in regards to how a service like ours works, considered the bareline essentials for something like Celeste-AI.
 
-* [[Ethics & Morality]](./pages/ethics.md) ⚠️
-* **COMING SOON!**
+* [[Ethics & Morality]](./pages/ethics.md) ⚠️ | **(Got some stuff thats important to talk about first...)**
+* [[Baseline-Functionality]](./pages/baseline.md) | **(Let's get right into the absics on how I do my thing!)**
 
 ## 📄 [CONTENT] 📄
 Features of our service that isn't considered "required" for functionality and growth, however they play a big role in improving the experiences of the average person who uses our service, and or add extra content to the base experience.
 
-* **COMING SOON!**
-* **COMING SOON!**
-* **COMING SOON!**
-* **COMING SOON!**
-* **COMING SOON!**
-* **COMING SOON!**
+* [[Command-System]](./pages/commands.md) | **(On your order captain, I await your command!)**
+* [[Emotional-System]](./pages/emotions.md) | **(Let's be amazing friends together, I'm so happy to talk to you!)**
+* [[Celeste-Outfits]](./pages/outfits.md) | **(Like the fit? Trying my best!)**
+* [[Event-System]](./pages/events.md) | **(Got some stuff to do!)**
+* [[Action-System]](./pages/actions.md) | **(We're going to change it up a little!)**
+* [[AMWalker]](./pages/traversal.md) **(You're too slow! Let's speed right through this! Gotta read this darn map first!)**
 
 #
 <details>
@@ -34,9 +34,9 @@ Features of our service that isn't considered "required" for functionality and g
 
 ⚠️ **Please note, these versions are fundamentally different than our current iteration, therefore some data may be very inaccurate compared to her current version, take caution when taking advice from them, these are only here for memories sake and may not reflect the current iteration of our service accurately anymore.**
 
-- **[v1.0.0](./legacy/HowSheWorksV1.md)**
+- **[v1.0.0](./legacy/HowSheWorksV1.md)** | **(Woah this is really old!)**
 
-- **[v2.0.0](./legacy/HowSheWorksV2.md)**
+- **[v2.0.0](./legacy/HowSheWorksV2.md)** | **(A little closer to home, but not quite.)**
 </details>
 
 ---
